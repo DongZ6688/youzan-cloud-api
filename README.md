@@ -48,6 +48,12 @@ export YOUZAN_TOKEN_STORE="$HOME/.config/youzan-cloud-api/credentials.json"
 
 请只在本机填写 `credentials.json`，不要把它复制回仓库。
 
+### 查找店铺 ID（`kdt_id` / `grant_id`）
+
+控制台路径：**有赞云控制台 → 应用概况 → 授权信息 → 新增/查看店铺授权**。
+
+自用型授权需要的 `grant_id` 就是已授权店铺的 `kdt_id`。请只在本机查看并保存，不要把它与 Client Secret、Access Token 或 Refresh Token 一起发送到对话、Issue、日志或提交记录中。
+
 ### 2. 检查配置状态
 
 ```bash
