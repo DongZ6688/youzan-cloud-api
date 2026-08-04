@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.local
+*.private.*
+credentials.json
+credentials.*.json
+!assets/credentials.example.json
+youzan.config.json
+**/youzan.config.json
+**/token-store.json
+logs/
+tmp/
+output/
+node_modules/
