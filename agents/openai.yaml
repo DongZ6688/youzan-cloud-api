@@ -1,0 +1,4 @@
+interface:
+  display_name: "有赞云开放 API"
+  short_description: "安全调用全部有赞云接口，支持 Token 自动刷新与脱敏诊断"
+  default_prompt: "Use $youzan-cloud-api to securely call a Youzan Cloud API and refresh credentials when supported."
