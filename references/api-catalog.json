@@ -1,0 +1,5261 @@
+{
+  "source": "https://doc.youzanyun.com/v2/doc/cloud/token/RsS0wO4sWiOHTpk6KJCczq2xnic",
+  "generatedAt": "2026-08-04T03:42:10.403Z",
+  "total": 656,
+  "counts": {
+    "写入/操作": 238,
+    "读取": 299,
+    "待确认": 77,
+    "读写": 42
+  },
+  "apis": [
+    {
+      "domain": "标签",
+      "name": "标签组创建",
+      "docToken": "AgqXwn8CvirHM1kDIpjcwa98nOh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AgqXwn8CvirHM1kDIpjcwa98nOh",
+      "updatedAt": "2026-01-23T09:47:31.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "查询标签组详情",
+      "docToken": "VyUqwRB5QiBzA7kTBMLcr818nTb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VyUqwRB5QiBzA7kTBMLcr818nTb",
+      "updatedAt": "2026-06-07T03:08:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "标签",
+      "name": "查询客户标签列表",
+      "docToken": "HSGlwhZUaiSb8JkB8RXcX8TanVc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HSGlwhZUaiSb8JkB8RXcX8TanVc",
+      "updatedAt": "2026-01-23T03:33:29.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "标签",
+      "name": "查询商家营销标签下客户信息",
+      "docToken": "HaGswLoLKiXtlOkEemOcQ9hPnfg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HaGswLoLKiXtlOkEemOcQ9hPnfg",
+      "updatedAt": "2026-01-23T09:31:18.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "标签",
+      "name": "创建商家标签模板",
+      "docToken": "Mo5uwCdT6ilR9TkgPEOcqCXXnfh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Mo5uwCdT6ilR9TkgPEOcqCXXnfh",
+      "updatedAt": "2026-01-23T09:53:59.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "分页查询标签分组模版列表",
+      "docToken": "YmVawiuSciqqaBkipvxctHdynKb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YmVawiuSciqqaBkipvxctHdynKb",
+      "updatedAt": "2026-01-23T09:29:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "标签",
+      "name": "分组标签信息查询",
+      "docToken": "Au2lwjIoziajnckoRzkcxKN1nef",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Au2lwjIoziajnckoRzkcxKN1nef",
+      "updatedAt": "2026-01-23T09:35:40.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "标签",
+      "name": "给客户打标",
+      "docToken": "IRRbwHd3viBTS7kZ4nDc3GX3ndh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IRRbwHd3viBTS7kZ4nDc3GX3ndh",
+      "updatedAt": "2026-01-23T09:18:20.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "更新类目标签",
+      "docToken": "CfzUw3L3cik7LwkXAZQcG3COnGb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CfzUw3L3cik7LwkXAZQcG3COnGb",
+      "updatedAt": "2026-01-23T09:49:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "客户标签更新",
+      "docToken": "B3NhwgTVtiGC0DkdZxIc78PnnPc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B3NhwgTVtiGC0DkdZxIc78PnnPc",
+      "updatedAt": "2026-01-23T09:40:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "批量删除客户标签",
+      "docToken": "Kw7LwziiEiFIySkMtmJcaFiOnMd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Kw7LwziiEiFIySkMtmJcaFiOnMd",
+      "updatedAt": "2025-06-13T06:54:45.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "批量增加客户标签关系",
+      "docToken": "FNsPwiuwdikjNZksyyecZpXynbI",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FNsPwiuwdikjNZksyyecZpXynbI",
+      "updatedAt": "2026-01-23T03:35:39.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "标签",
+      "name": "删除标签组",
+      "docToken": "ENLEwzjjgiRpeEkqXULcWB7cnZg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ENLEwzjjgiRpeEkqXULcWB7cnZg",
+      "updatedAt": "2026-01-23T09:51:49.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "删除客户标签",
+      "docToken": "NY7VwiiVAiZKAikcq39cG7pfnUb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NY7VwiiVAiZKAikcq39cG7pfnUb",
+      "updatedAt": "2026-01-23T09:20:31.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "标签",
+      "name": "通过客户标签ID查询客户标签模板",
+      "docToken": "FGxFwAAMoipOLEkhqKNcr9Dbnle",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FGxFwAAMoipOLEkhqKNcr9Dbnle",
+      "updatedAt": "2026-01-23T09:37:56.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "尺码组",
+      "name": "尺码组单个查询",
+      "docToken": "QKUGwZRFkiTVbektnLkcVyAnnIe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QKUGwZRFkiTVbektnLkcVyAnnIe",
+      "updatedAt": "2026-05-11T06:23:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "尺码组",
+      "name": "尺码组分页查询",
+      "docToken": "A4uCwio6TirVF6kx7fEcdkrbnGd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/A4uCwio6TirVF6kx7fEcdkrbnGd",
+      "updatedAt": "2026-05-11T06:25:14.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "尺码组",
+      "name": "尺码组更新",
+      "docToken": "HtbIwfT4Nig7buk1nnXc8Z97npf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HtbIwfT4Nig7buk1nnXc8Z97npf",
+      "updatedAt": "2026-05-11T06:27:26.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "尺码组",
+      "name": "尺码组新增",
+      "docToken": "XqKvwDWQHi2vEkk3gJ5cMYf2nfh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XqKvwDWQHi2vEkk3gJ5cMYf2nfh",
+      "updatedAt": "2026-05-11T06:29:40.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "储值运营-提成管理",
+      "name": "根据交易单号查询提成信息",
+      "docToken": "SrMdwVC4RiumEAk3uTRcyh63nic",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SrMdwVC4RiumEAk3uTRcyh63nic",
+      "updatedAt": "2026-01-25T11:58:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "包邮工具列表",
+      "docToken": "HnMMwXarmiTQnrkKX9Hc9H27n2b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HnMMwXarmiTQnrkKX9Hc9H27n2b",
+      "updatedAt": "2026-07-14T05:00:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "编辑打包一口价",
+      "docToken": "KP1Bw3ycuiPR1eknO7ycFWuJnxV",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KP1Bw3ycuiPR1eknO7ycFWuJnxV",
+      "updatedAt": "2026-07-10T15:08:13.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "编辑限时折扣",
+      "docToken": "C2DtwNXTLiGNzRkSh27c6yeqnVd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/C2DtwNXTLiGNzRkSh27c6yeqnVd",
+      "updatedAt": "2026-07-21T04:53:26.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询包邮活动详情接口",
+      "docToken": "HtQVwFvo6iCYrIkYlFEcG5pPnec",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HtQVwFvo6iCYrIkYlFEcG5pPnec",
+      "updatedAt": "2026-06-16T02:40:07.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询打包一口价活动列表",
+      "docToken": "Jla5wM2JJijSlQkuWsOc1s3QnDb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Jla5wM2JJijSlQkuWsOc1s3QnDb",
+      "updatedAt": "2026-07-10T15:10:13.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询打包一口价活动详情",
+      "docToken": "GPFUwXA9CiHQowkrCWHcGIUknpc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GPFUwXA9CiHQowkrCWHcGIUknpc",
+      "updatedAt": "2026-01-25T08:57:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询单个满减送活动详情",
+      "docToken": "DH0uwTWOFiys4dkgcCfcmB9Ennh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DH0uwTWOFiys4dkgcCfcmB9Ennh",
+      "updatedAt": "2026-07-10T15:01:39.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询第二件半价活动详情",
+      "docToken": "V3Tbw5obRiyyYdk1cgnc8HnDn2d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/V3Tbw5obRiyyYdk1cgnc8HnDn2d",
+      "updatedAt": "2026-01-25T08:04:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询店铺可用的赠品列表",
+      "docToken": "WC49w9jwKiydKJkeSHscjzktn5d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WC49w9jwKiydKJkeSHscjzktn5d",
+      "updatedAt": "2026-01-25T09:16:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询秒杀活动详情",
+      "docToken": "JdtEwVs1mi8MfWkWTE4cnYcEndf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JdtEwVs1mi8MfWkWTE4cnYcEndf",
+      "updatedAt": "2026-07-10T15:18:58.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询拼团活动基本信息",
+      "docToken": "BgmJwTNrDiH4CskNdgFcc9npnuc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BgmJwTNrDiH4CskNdgFcc9npnuc",
+      "updatedAt": "2026-07-10T15:12:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询拼团活动列表",
+      "docToken": "Z4XcwwM53iDihek4mHQcBHvznzd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Z4XcwwM53iDihek4mHQcBHvznzd",
+      "updatedAt": "2026-07-10T15:14:34.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询商品参加限时折扣活动互斥信息",
+      "docToken": "UudSwdvE0ir5wEk91KLcEHMGnWc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UudSwdvE0ir5wEk91KLcEHMGnWc",
+      "updatedAt": "2026-06-24T13:46:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询限时折扣活动的基本信息",
+      "docToken": "Oihyw1TTyiw2Txku090cKouRnPb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Oihyw1TTyiw2Txku090cKouRnPb",
+      "updatedAt": "2026-07-10T15:03:53.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "查询支付有礼详情",
+      "docToken": "SGY3wFdq7ibyLWkINfnc2AXUnBb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SGY3wFdq7ibyLWkINfnc2AXUnBb",
+      "updatedAt": "2026-06-16T02:42:12.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "抽奖拼团列表",
+      "docToken": "Ai5wwam9Ri62iKk0rTgcFxbin0f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Ai5wwam9Ri62iKk0rTgcFxbin0f",
+      "updatedAt": "2025-09-26T06:32:33.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "创建打包一口价活动",
+      "docToken": "V4TRwQ8NFiPk9dk1ijccsyqhnyc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/V4TRwQ8NFiPk9dk1ijccsyqhnyc",
+      "updatedAt": "2026-07-10T15:05:57.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "打包一口价编辑【异步】",
+      "docToken": "UI9IwVRf1iO4DtkZTDncQ7GPnGe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UI9IwVRf1iO4DtkZTDncQ7GPnGe",
+      "updatedAt": "2026-06-16T02:37:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "打包一口价创建【异步】",
+      "docToken": "ZT1XwPZTgi0YLQkt8VDcrjHLnNc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZT1XwPZTgi0YLQkt8VDcrjHLnNc",
+      "updatedAt": "2026-07-10T14:27:50.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "第二件半价活动编辑接口【异步】",
+      "docToken": "QfTGwplwvigFjckORrLcsJN2nxb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QfTGwplwvigFjckORrLcsJN2nxb",
+      "updatedAt": "2026-06-16T02:56:36.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "第二件半价活动创建接口【异步】",
+      "docToken": "G0FJwNs6viB16dkaHGPcYhLinqc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G0FJwNs6viB16dkaHGPcYhLinqc",
+      "updatedAt": "2026-07-28T10:41:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "分页查询当前店铺的秒杀活动列表",
+      "docToken": "ZEGtwLU36ij4mWkt8JQcKthmnsq",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZEGtwLU36ij4mWkt8JQcKthmnsq",
+      "updatedAt": "2026-07-10T15:21:01.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "分页查询某一限时折扣活动下的商品折扣列表",
+      "docToken": "J5fhwDE1ui9O7akJBX4cPT5FnZf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/J5fhwDE1ui9O7akJBX4cPT5FnZf",
+      "updatedAt": "2026-07-02T12:18:20.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "给用户发放指定赠品-【请注意赠品库存超发】详见API描述",
+      "docToken": "VZK6w3kZQikCssku9L1ctphBnrf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VZK6w3kZQikCssku9L1ctphBnrf",
+      "updatedAt": "2026-01-25T09:27:26.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "根据商品id批量获取商品的自定义会员价信息",
+      "docToken": "FptawVkiUimfrBkdrAbcMwHnnch",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FptawVkiUimfrBkdrAbcMwHnnch",
+      "updatedAt": "2026-01-25T09:12:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "更新支付有礼【异步】",
+      "docToken": "MypdwpPl6iP5WakTlbYc7PIgneg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MypdwpPl6iP5WakTlbYc7PIgneg",
+      "updatedAt": "2026-06-16T02:44:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "活动查询通用接口",
+      "docToken": "DT1iwKk8WiVB0pkAY9fcFG3unXf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DT1iwKk8WiVB0pkAY9fcFG3unXf",
+      "updatedAt": "2026-07-10T14:44:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "获取店铺所有进行中的赠品列表",
+      "docToken": "EfLvwOXR4iLSqkk1qIicFHbUn9b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EfLvwOXR4iLSqkk1qIicFHbUn9b",
+      "updatedAt": "2026-01-25T09:14:35.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "满减送活动编辑接口",
+      "docToken": "F7xRwEUgLi2RGokebF5ccRCwnlf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/F7xRwEUgLi2RGokebF5ccRCwnlf",
+      "updatedAt": "2026-07-21T10:40:17.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "满减送活动编辑接口【异步】",
+      "docToken": "WclqwzoV5iMn6zk3d9Bc9VwwnDf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WclqwzoV5iMn6zk3d9Bc9VwwnDf",
+      "updatedAt": "2026-06-24T16:47:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "满减送活动创建接口",
+      "docToken": "TmkswASF8ixTNAkL8NWchZBBnTd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TmkswASF8ixTNAkL8NWchZBBnTd",
+      "updatedAt": "2026-07-29T06:27:35.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "批量查询商品列表参加的限时折扣活动信息",
+      "docToken": "AmYFwX8RbiPtIckqBpVcfQlanPe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AmYFwX8RbiPtIckqBpVcfQlanPe",
+      "updatedAt": "2026-06-24T14:46:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "批量修改【创建】商品SKU级别的自定义会员价V1版本",
+      "docToken": "Yib7waP1OiFBiDkHEUZc9lPjnJc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Yib7waP1OiFBiDkHEUZc9lPjnJc",
+      "updatedAt": "2026-01-25T09:10:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "拼团活动-商家通过店铺订单号获取参团记录和团信息",
+      "docToken": "NoPcw1C10iZHmwkVFJZcO6DRnsd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NoPcw1C10iZHmwkVFJZcO6DRnsd",
+      "updatedAt": "2026-07-10T15:16:49.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "通过商品id查询商品参加的活动信息",
+      "docToken": "ZFskw7BWGiqSh3k98KKcecS6npe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZFskw7BWGiqSh3k98KKcecS6npe",
+      "updatedAt": "2026-07-02T12:20:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "通用活动失效接口",
+      "docToken": "QFzhwtJNgiyeLZkczDWcrvTonMc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QFzhwtJNgiyeLZkczDWcrvTonMc",
+      "updatedAt": "2026-07-10T14:46:15.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "限时折扣创建",
+      "docToken": "GxQRwz5O1ifdYRkmM0cc9HTenig",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GxQRwz5O1ifdYRkmM0cc9HTenig",
+      "updatedAt": "2026-07-28T10:46:21.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "修改【创建】单个商品SKU级别的自定义会员价",
+      "docToken": "VSOwwvalaiFOtGkm818cpk60nDK",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VSOwwvalaiFOtGkm818cpk60nDK",
+      "updatedAt": "2026-01-25T09:07:58.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "修改会员价活动",
+      "docToken": "HJYvwCYalikNCik6NdacwQu9nqd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HJYvwCYalikNCik6NdacwQu9nqd",
+      "updatedAt": "2026-07-13T08:19:37.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "异步编辑包邮活动",
+      "docToken": "B7mNwWbpNiLR3bkkf50cAx7Dnkh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B7mNwWbpNiLR3bkkf50cAx7Dnkh",
+      "updatedAt": "2026-06-16T02:49:54.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "异步创建包邮活动",
+      "docToken": "OS6rwVoBUi3rpbkypx2cIJBfnPP",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OS6rwVoBUi3rpbkypx2cIJBfnPP",
+      "updatedAt": "2026-06-16T02:51:57.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "异步创建满减送活动",
+      "docToken": "OLwRwjfmXiwv6ukvQLrcnleMngb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OLwRwjfmXiwv6ukvQLrcnleMngb",
+      "updatedAt": "2026-06-24T15:46:50.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "异步全量编辑限时折扣活动",
+      "docToken": "JRO4wCvBmiK3Rck65wYcx6Zan4g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JRO4wCvBmiK3Rck65wYcx6Zan4g",
+      "updatedAt": "2026-06-24T10:45:32.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "异步增量更新限时折扣活动商品",
+      "docToken": "Hj3ewTb8ziuXdMkdhXOcsCRdnme",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Hj3ewTb8ziuXdMkdhXOcsCRdnme",
+      "updatedAt": "2026-07-21T10:48:16.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "营销活动列表批量查询接口",
+      "docToken": "Jln7wFQeUiJFjIkOQ22cjwR7nff",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Jln7wFQeUiJFjIkOQ22cjwR7nff",
+      "updatedAt": "2026-07-10T14:40:57.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "增量编辑满减送活动【异步】",
+      "docToken": "VKXiwfJDriw0KlkeyQzcAAF9nfy",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VKXiwfJDriw0KlkeyQzcAAF9nfy",
+      "updatedAt": "2026-06-24T08:52:58.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "增量编辑支付有礼【异步】",
+      "docToken": "HR0zw7GJLiRbICkJAC1c7fbVnmf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HR0zw7GJLiRbICkJAC1c7fbVnmf",
+      "updatedAt": "2026-06-16T02:47:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "促销类活动",
+      "name": "赠品活动同步创建",
+      "docToken": "NT88wfGnMiMLlEkCvB8cCw6SnZe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NT88wfGnMiMLlEkCvB8cCw6SnZe",
+      "updatedAt": "2026-01-25T09:18:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子发票",
+      "name": "同步电子发票开票结果",
+      "docToken": "LwU3wcGBTi5EqskFTYYcGfwCnib",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LwU3wcGBTi5EqskFTYYcGfwCnib",
+      "updatedAt": "2026-01-21T04:54:38.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "查询电子卡券核销记录",
+      "docToken": "MEhzwS0iPi5FzAkuqaucXhrHnfg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MEhzwS0iPi5FzAkuqaucXhrHnfg",
+      "updatedAt": "2026-04-29T08:25:13.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "查询三方电子卡券详情",
+      "docToken": "SvJSwdReUiNNKqkCACNcDvr4nMg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SvJSwdReUiNNKqkCACNcDvr4nMg",
+      "updatedAt": "2026-01-25T12:28:18.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "撤销已核销三方电子卡券",
+      "docToken": "Le8EwFe4OiW8dAkajF5cTKBynhy",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Le8EwFe4OiW8dAkajF5cTKBynhy",
+      "updatedAt": "2026-01-25T12:41:34.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "创建三方电子卡券",
+      "docToken": "Mejtwh96CiEncmk1ZO2cMY8AnDg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Mejtwh96CiEncmk1ZO2cMY8AnDg",
+      "updatedAt": "2026-01-24T16:18:14.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "核销电子卡券券码",
+      "docToken": "X7irw9A0livSFckba6JcCMqYnph",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/X7irw9A0livSFckba6JcCMqYnph",
+      "updatedAt": "2026-01-24T16:11:44.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "批量核销三方电子卡券",
+      "docToken": "ZzXawP7WAitEmekLsckcb2Ljn6c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZzXawP7WAitEmekLsckcb2Ljn6c",
+      "updatedAt": "2026-01-24T16:22:26.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "三方电子卡券置为退款中状态",
+      "docToken": "EeEGwbHS9iCGmxkovzucUXMLnec",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EeEGwbHS9iCGmxkovzucUXMLnec",
+      "updatedAt": "2026-01-25T12:37:13.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "失效三方电子卡券",
+      "docToken": "GUaUwYBTPi9yEZkVPbkcWQ23nZe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GUaUwYBTPi9yEZkVPbkcWQ23nZe",
+      "updatedAt": "2026-01-25T12:32:45.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "同步三方电子卡券状态",
+      "docToken": "UNh8wvhRhiDeY7k7gtVcNcNAnZe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UNh8wvhRhiDeY7k7gtVcNcNAnZe",
+      "updatedAt": "2026-01-24T16:20:18.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "延期三方电子卡券",
+      "docToken": "X3LgwTc5tiaEkBkhcevcKm3XnOd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/X3LgwTc5tiaEkBkhcevcKm3XnOd",
+      "updatedAt": "2026-01-25T12:45:52.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "电子卡券",
+      "name": "整单核销电子卡券",
+      "docToken": "OyccwJVvQi76ydkJK2ic3ZoznNf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OyccwJVvQi76ydkJK2ic3ZoznNf",
+      "updatedAt": "2026-01-24T16:09:33.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子面单",
+      "name": "查询电子面单打印报文",
+      "docToken": "ASMXwS6dxiJ3DXkIiaFcH25enmb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ASMXwS6dxiJ3DXkIiaFcH25enmb",
+      "updatedAt": "2026-01-21T05:13:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "电子面单",
+      "name": "查询电子面单打印模板",
+      "docToken": "CUwnwA5YlixXKNk4npScEV8cnTe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CUwnwA5YlixXKNk4npScEV8cnTe",
+      "updatedAt": "2026-01-21T05:11:05.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "电子面单",
+      "name": "查询电子面单订购关系",
+      "docToken": "UqFvwX3PxirxjykpFCGcdLAwnEh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UqFvwX3PxirxjykpFCGcdLAwnEh",
+      "updatedAt": "2026-01-21T05:04:33.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "电子面单",
+      "name": "查询电子面单可用增值服务",
+      "docToken": "IHggwmISOiilnCkW9Prcfztfn8f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IHggwmISOiilnCkW9Prcfztfn8f",
+      "updatedAt": "2026-01-21T05:06:40.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "电子面单",
+      "name": "查询电子面单信息",
+      "docToken": "ZUZwwYOpwiPv2MksV8Vc9mHKnqh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZUZwwYOpwiPv2MksV8Vc9mHKnqh",
+      "updatedAt": "2026-07-17T09:10:18.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "电子面单",
+      "name": "代理打印三方渠道电子面单",
+      "docToken": "D2H5w8zlsiwz66kVvqacYeZfn7c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/D2H5w8zlsiwz66kVvqacYeZfn7c",
+      "updatedAt": "2026-01-23T03:19:36.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "电子面单",
+      "name": "电子面单批量取号",
+      "docToken": "ANZEw43wPi4F68kZ843cEsYEnRh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ANZEw43wPi4F68kZ843cEsYEnRh",
+      "updatedAt": "2026-01-21T05:08:48.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "电子面单",
+      "name": "更新电子面单信息",
+      "docToken": "EcmXwOSOmijeUqkEHYGceNCBnag",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EcmXwOSOmijeUqkEHYGceNCBnag",
+      "updatedAt": "2025-12-26T14:34:23.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "电子面单",
+      "name": "取消电子面单",
+      "docToken": "DM7MwUkB8iu86dkAnhic0Lkdn0d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DM7MwUkB8iu86dkAnhic0Lkdn0d",
+      "updatedAt": "2026-01-21T05:15:31.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "编辑连锁门店信息",
+      "docToken": "Qxmew8fMsiHo4Kk7ziNcMQnkndc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Qxmew8fMsiHo4Kk7ziNcMQnkndc",
+      "updatedAt": "2026-03-27T02:48:13.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "查询店铺操作日志",
+      "docToken": "K6b9wznQuiRTNDk5ZrhclrsCn5c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K6b9wznQuiRTNDk5ZrhclrsCn5c",
+      "updatedAt": "2026-03-27T03:13:50.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "查询店铺配置",
+      "docToken": "G9gpw9uj4iZzkEkQjZtc9xXpnWg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G9gpw9uj4iZzkEkQjZtc9xXpnWg",
+      "updatedAt": "2026-03-27T03:35:44.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "查询店铺生命周期",
+      "docToken": "ZymowW0VriiBJ2k73zNcU9uGnTd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZymowW0VriiBJ2k73zNcU9uGnTd",
+      "updatedAt": "2026-03-27T03:09:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "查询已授权给应用的店铺信息",
+      "docToken": "WKRLwW8iPiDp0HkfMqAcYjIQnQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WKRLwW8iPiDp0HkfMqAcYjIQnQf",
+      "updatedAt": "2026-03-20T04:09:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "更新店铺地址库地址",
+      "docToken": "K4VSwqSKSik2imktlUtcLiDxnVf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K4VSwqSKSik2imktlUtcLiDxnVf",
+      "updatedAt": "2026-03-20T04:07:13.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "海淘电子口岸列表",
+      "docToken": "FbEKwcYwnifcsJkqucVcg78QnYc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FbEKwcYwnifcsJkqucVcg78QnYc",
+      "updatedAt": "2026-03-20T04:11:34.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "获取店铺地址库地址",
+      "docToken": "C8ycwCogvi0JOkkNXfYcTFwVnZe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/C8ycwCogvi0JOkkNXfYcTFwVnZe",
+      "updatedAt": "2026-03-20T04:02:14.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "获取店铺地址库所有地址",
+      "docToken": "FrpUwFZz4it1mKk2DN1c90jJnSh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FrpUwFZz4it1mKk2DN1c90jJnSh",
+      "updatedAt": "2026-03-20T04:04:10.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "获取店铺基本信如 id、名称、logo、认证类型、主页地址",
+      "docToken": "DIQ0wlF7picLWQkP1ATci1PUn4b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DIQ0wlF7picLWQkP1ATci1PUn4b",
+      "updatedAt": "2026-03-27T02:53:51.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "获取店铺状态",
+      "docToken": "O5H6wwiUQifLImklgI7cOicZnvg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/O5H6wwiUQifLImklgI7cOicZnvg",
+      "updatedAt": "2026-03-20T04:15:53.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "获取店铺id、名称、类型、logo、简介",
+      "docToken": "NAYrwNQqNiwFtVkXG8Xcc115nLc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NAYrwNQqNiwFtVkXG8Xcc115nLc",
+      "updatedAt": "2026-03-20T04:13:51.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "买家端连锁店铺搜索",
+      "docToken": "IiUWwvmxyiXaF9k2dAScIBg3nBf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IiUWwvmxyiXaF9k2dAScIBg3nBf",
+      "updatedAt": "2026-03-27T03:03:01.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "通过商户号id获取店铺kdtId",
+      "docToken": "HrTUwHBtIi9vc3kvCtjcwQDNncf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HrTUwHBtIi9vc3kvCtjcwQDNncf",
+      "updatedAt": "2026-03-27T03:07:18.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "新增店铺地址库地址",
+      "docToken": "SIhKwVE9UisESwkb3DucLuT2nGA",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SIhKwVE9UisESwkb3DucLuT2nGA",
+      "updatedAt": "2026-03-20T03:58:15.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "店铺基础",
+      "name": "增加店铺操作日志",
+      "docToken": "RhQjwQZc6ilofJkh4ZZcWoL0nXc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RhQjwQZc6ilofJkh4ZZcWoL0nXc",
+      "updatedAt": "2026-03-27T03:11:32.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "订单管理",
+      "name": "标星订单",
+      "docToken": "QEKzw9RhtiK0CxkBhR2cPOtdn0d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QEKzw9RhtiK0CxkBhR2cPOtdn0d",
+      "updatedAt": "2026-01-24T15:50:15.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询拆单V单和E单关联关系",
+      "docToken": "GesEw6yrRi4hwzkLbeNczLIbnQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GesEw6yrRi4hwzkLbeNczLIbnQf",
+      "updatedAt": "2026-01-24T15:41:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询订单列表",
+      "docToken": "P5Ojw8J96iVoyHkw4C5c0iRLnHd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/P5Ojw8J96iVoyHkw4C5c0iRLnHd",
+      "updatedAt": "2026-03-25T03:28:16.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询订单详情",
+      "docToken": "N1PewEBlii4MlBk4mw5cwezYnke",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/N1PewEBlii4MlBk4mw5cwezYnke",
+      "updatedAt": "2026-03-25T03:30:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询订单优惠详情",
+      "docToken": "WTrMwMdl1ibQxhk7YyMclE6nnXS",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WTrMwMdl1ibQxhk7YyMclE6nnXS",
+      "updatedAt": "2026-01-24T15:48:03.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询订单周期购详情",
+      "docToken": "CsCIwLEzriU4kQkjJPmcjEesnLc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CsCIwLEzriU4kQkjJPmcjEesnLc",
+      "updatedAt": "2026-01-24T15:43:46.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询分销采购订单详情",
+      "docToken": "Wts2w59CBiOHUwkkIUicxfg1n4c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Wts2w59CBiOHUwkkIUicxfg1n4c",
+      "updatedAt": "2026-01-24T15:35:16.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询换货订单详情",
+      "docToken": "Su5Mw9GjkiDjLkk0ya5c2R0gnYb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Su5Mw9GjkiDjLkk0ya5c2R0gnYb",
+      "updatedAt": "2026-01-24T15:39:35.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询虚拟商品核销记录",
+      "docToken": "AwN5w3zSuidKABkPUs6cpuuOndb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AwN5w3zSuidKABkPUs6cpuuOndb",
+      "updatedAt": "2026-01-24T16:28:49.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "订单管理",
+      "name": "查询虚拟商品核销码详情",
+      "docToken": "IiAlwsLJZiBB0LkNZ8fcRlvBnuf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IiAlwsLJZiBB0LkNZ8fcRlvBnuf",
+      "updatedAt": "2026-01-24T16:26:39.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "订单管理",
+      "name": "导入外部订单",
+      "docToken": "VTeZwhIQEiJEJNkxJcCcCyAXn3f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VTeZwhIQEiJEJNkxJcCcCyAXn3f",
+      "updatedAt": "2026-02-02T08:38:16.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "更新订单备注",
+      "docToken": "ApltwoEFpihb54kRXY9cZA1Xncf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ApltwoEFpihb54kRXY9cZA1Xncf",
+      "updatedAt": "2026-01-24T15:32:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "更新订单扩展字段",
+      "docToken": "C3TXwUcGyinYyQkbRTVcsfbinKg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/C3TXwUcGyinYyQkbRTVcsfbinKg",
+      "updatedAt": "2026-01-24T14:33:46.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "更新订单收货地址",
+      "docToken": "KJ4ww9FaDiQi1NkRZO8cZlHynBh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KJ4ww9FaDiQi1NkRZO8cZlHynBh",
+      "updatedAt": "2026-01-24T14:29:28.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "核销虚拟商品",
+      "docToken": "HpMLwMfRjiSwHPkI5wIcDhXIn8f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HpMLwMfRjiSwHPkI5wIcDhXIn8f",
+      "updatedAt": "2026-01-24T16:24:33.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "拒绝酒店订单接单",
+      "docToken": "Qk85wuFbpiNFQpkDRbdckqHInTc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Qk85wuFbpiNFQpkDRbdckqHInTc",
+      "updatedAt": "2026-01-23T12:11:39.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "订单管理",
+      "name": "确认酒店订单接单",
+      "docToken": "BNouwUt8siVY7IkmxOZcWDXDnnc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BNouwUt8siVY7IkmxOZcWDXDnnc",
+      "updatedAt": "2026-01-24T15:34:12.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "确认酒店订单入住",
+      "docToken": "D0MFwWeDqiGfmVkt4YdcWUdbntd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/D0MFwWeDqiGfmVkt4YdcWUdbntd",
+      "updatedAt": "2026-01-24T15:37:23.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "完成外部订单",
+      "docToken": "FSf5wDAOhiPKCykmw9rcIF48nPf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FSf5wDAOhiPKCykmw9rcIF48nPf",
+      "updatedAt": "2026-01-24T18:07:11.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "订单管理",
+      "name": "修改订单价格",
+      "docToken": "AfviwuwMQiTpvOke3IOc9HbNnEP",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AfviwuwMQiTpvOke3IOc9HbNnEP",
+      "updatedAt": "2026-01-24T15:46:03.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "订单管理",
+      "name": "隐藏买家端订单",
+      "docToken": "EtGqwdhpeida5jkP5CaciHRWnlh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EtGqwdhpeida5jkP5CaciHRWnlh",
+      "updatedAt": "2026-01-24T15:54:30.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "订单管理",
+      "name": "支付外部订单",
+      "docToken": "DP3QwwgAIi0lzWkunh3cDCfDnNc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DP3QwwgAIi0lzWkunh3cDCfDnNc",
+      "updatedAt": "2026-01-24T18:05:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分类",
+      "name": "编辑商品分类",
+      "docToken": "Rxb4wUJ7girbW0klzC4cOqUmnGe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Rxb4wUJ7girbW0klzC4cOqUmnGe",
+      "updatedAt": "2026-01-21T03:51:35.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分类",
+      "name": "查询商品分类详情",
+      "docToken": "C7X9w6nbzi4ZoIkmjLMcEW7Ln3f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/C7X9w6nbzi4ZoIkmjLMcEW7Ln3f",
+      "updatedAt": "2026-01-21T03:55:51.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分类",
+      "name": "创建商品分类",
+      "docToken": "LP9jw9shEij7WjkiU7fcIHHRnQd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LP9jw9shEij7WjkiU7fcIHHRnQd",
+      "updatedAt": "2026-01-21T03:49:16.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分类",
+      "name": "删除商品分类",
+      "docToken": "VbeWwbJr4ikKHvksyorcvWpynxb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VbeWwbJr4ikKHvksyorcvWpynxb",
+      "updatedAt": "2026-01-21T03:53:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分类",
+      "name": "搜索商品分类",
+      "docToken": "T94ewkswqiEfUIk0Yahc2VI9nCg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/T94ewkswqiEfUIk0Yahc2VI9nCg",
+      "updatedAt": "2025-02-08T04:06:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "变更分销员组合结算配置的用户列表",
+      "docToken": "MyKbwjS71iOIwvkBSHdcNptyn9g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MyKbwjS71iOIwvkBSHdcNptyn9g",
+      "updatedAt": "2026-01-21T08:39:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "查询订单归属的销售员",
+      "docToken": "YL0hwii2Ii2aPHk1T2pcizbnnNf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YL0hwii2Ii2aPHk1T2pcizbnnNf",
+      "updatedAt": "2026-01-23T10:06:02.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "查询分销员奖励订单列表",
+      "docToken": "H5BewzTfhibG1ukDrWDc6Q6tntd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/H5BewzTfhibG1ukDrWDc6Q6tntd",
+      "updatedAt": "2026-01-21T08:43:48.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "触发分销员订单结算",
+      "docToken": "HHdNwTmVYicf7Tk3ovgcfC8knvh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HHdNwTmVYicf7Tk3ovgcfC8knvh",
+      "updatedAt": "2026-01-21T08:39:19.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "分销员订单归因给指定分销员",
+      "docToken": "GoMKwFZOSiIoF0ky1zWcSXDTnfc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GoMKwFZOSiIoF0ky1zWcSXDTnfc",
+      "updatedAt": "2026-01-21T08:37:14.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "分销员订单计算佣金接口",
+      "docToken": "EupWwHzPoi77fzkS8wBcXhJEnnf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EupWwHzPoi77fzkS8wBcXhJEnnf",
+      "updatedAt": "2026-01-21T08:37:11.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "获取推广订单列表",
+      "docToken": "YcYgwv58Ziq0i6kn9rIcgtC7nGd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YcYgwv58Ziq0i6kn9rIcgtC7nGd",
+      "updatedAt": "2026-05-09T07:29:03.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员订单",
+      "name": "异步修改待结算人工订单为已结算",
+      "docToken": "LYxPwNd7siA5hhkX3G3chcnXnhR",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LYxPwNd7siA5hhkX3G3chcnXnhR",
+      "updatedAt": "2026-01-21T08:43:44.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员激励",
+      "name": "查询分销员团队奖励详情",
+      "docToken": "OCBCw3XN8irriQkEr3VcZK7TnUd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OCBCw3XN8irriQkEr3VcZK7TnUd",
+      "updatedAt": "2026-01-21T08:48:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员激励",
+      "name": "分页查询分销员团队奖励报表",
+      "docToken": "VCQ9wAMdsiqjG8ksK8HcBIicnDh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VCQ9wAMdsiqjG8ksK8HcBIicnDh",
+      "updatedAt": "2026-01-21T08:50:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员激励",
+      "name": "分页查询分销员团队奖励列表",
+      "docToken": "NlhUwNyK3iXoEQkbpzZcCccdnFc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NlhUwNyK3iXoEQkbpzZcCccdnFc",
+      "updatedAt": "2026-01-21T08:48:13.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员激励",
+      "name": "分页查询分销员团队奖励适用的团队列表",
+      "docToken": "MMUFwnv2UinpVzkVIf0c1qOTnKh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MMUFwnv2UinpVzkVIf0c1qOTnKh",
+      "updatedAt": "2026-01-21T08:50:19.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员客户关系",
+      "name": "查询客户所属销售员",
+      "docToken": "EiREwKo0XiiWgWkevu8cFt5enOe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EiREwKo0XiiWgWkevu8cFt5enOe",
+      "updatedAt": "2026-01-25T09:01:39.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员客户关系",
+      "name": "调整或绑定客户关系",
+      "docToken": "XqrFwdav3inLNDkepOVcQnJnnUh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XqrFwdav3inLNDkepOVcQnJnnUh",
+      "updatedAt": "2026-01-21T08:32:41.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员客户关系",
+      "name": "分销员客户关系变更记录查询",
+      "docToken": "UaFGw3EF3i03yHk1Xgbc2VFPn3f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UaFGw3EF3i03yHk1Xgbc2VFPn3f",
+      "updatedAt": "2026-05-06T04:49:35.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员客户关系",
+      "name": "获取销售员客户关系列表",
+      "docToken": "SLavwG3UEiL32qkf5azcpl1SnRe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SLavwG3UEiL32qkf5azcpl1SnRe",
+      "updatedAt": "2026-01-21T08:32:45.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员客户关系",
+      "name": "解除客户关系",
+      "docToken": "AV9hwq5oZiTXvgkvsRecMzr1n2g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AV9hwq5oZiTXvgkvsRecMzr1n2g",
+      "updatedAt": "2025-06-13T11:23:57.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员客户关系",
+      "name": "转移客户关系",
+      "docToken": "NE65wCSROiOeL4kVSTdcvXk0n5O",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NE65wCSROiOeL4kVSTdcvXk0n5O",
+      "updatedAt": "2025-06-16T03:16:44.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "分销员推广商品能力标设置",
+      "docToken": "RVR8w6HHziLaTBkLd5WcCUWRnJe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RVR8w6HHziLaTBkLd5WcCUWRnJe",
+      "updatedAt": "2026-01-23T03:29:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "获取分销员推广商品列表",
+      "docToken": "VktBwWgPZiCPRbkyUyvc0S7Unhc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VktBwWgPZiCPRbkyUyvc0S7Unhc",
+      "updatedAt": "2026-01-21T08:45:58.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "获取销售员商品推广链接",
+      "docToken": "GYydwGnowi0LFok7rmZcckyCnEg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GYydwGnowi0LFok7rmZcckyCnEg",
+      "updatedAt": "2026-01-23T03:21:40.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "批量获取店铺商品提成比例信息",
+      "docToken": "YRdRwdC5QikELMkX6XWciFeKnjb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YRdRwdC5QikELMkX6XWciFeKnjb",
+      "updatedAt": "2026-01-23T03:23:57.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "批量获取商品所有等级提成比例信息",
+      "docToken": "WLvqwjb80iTaIFkKY5jc3y5xn6c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WLvqwjb80iTaIFkKY5jc3y5xn6c",
+      "updatedAt": "2026-01-23T03:26:57.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "商品分佣批量设置接口",
+      "docToken": "Rj51wvr6KipZNlk4a8bc4GD6nHd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Rj51wvr6KipZNlk4a8bc4GD6nHd",
+      "updatedAt": "2026-01-21T08:48:07.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员商品",
+      "name": "销售员获取商品预计赚",
+      "docToken": "OkKRwTllVitWyWk2JGLcMuHKnSh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OkKRwTllVitWyWk2JGLcMuHKnSh",
+      "updatedAt": "2026-01-23T03:31:14.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "查询分销员可分享优惠券列表",
+      "docToken": "EPFkwnoe1iKGAKkvChmc5wyInDh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EPFkwnoe1iKGAKkvChmc5wyInDh",
+      "updatedAt": "2026-01-24T13:54:53.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "分页查询销售员-运营推广-素材列表",
+      "docToken": "Yk1pwJFSFiKVCBknOcpcc71In5d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Yk1pwJFSFiKVCBknOcpcc71In5d",
+      "updatedAt": "2026-01-21T08:35:00.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "获取分销员素材详情",
+      "docToken": "W16wwUwsJiZLyAk1YAycXT0Jn3b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/W16wwUwsJiZLyAk1YAycXT0Jn3b",
+      "updatedAt": "2026-01-24T13:50:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "获取销售员的专属推广二维码",
+      "docToken": "WIjdwHiwti3xgDkLtqscLacxnPc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WIjdwHiwti3xgDkLtqscLacxnPc",
+      "updatedAt": "2026-01-24T13:46:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "删除分销员素材",
+      "docToken": "V0uywQ1PJiIO0skEiwpcMY8Un0d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/V0uywQ1PJiIO0skEiwpcMY8Un0d",
+      "updatedAt": "2026-01-24T13:48:28.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "添加分销员素材接口",
+      "docToken": "Xo87wRGN2iXrq2kD6xocOq4pnxh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Xo87wRGN2iXrq2kD6xocOq4pnxh",
+      "updatedAt": "2026-01-24T13:52:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "销售员推广链接通用接口",
+      "docToken": "BqxYwrVyGiS739kUMR3cFjCwn7c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BqxYwrVyGiS739kUMR3cFjCwn7c",
+      "updatedAt": "2026-01-21T08:35:07.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员推广工具",
+      "name": "修改分销员推广素材",
+      "docToken": "UePfw6LwJiS1IokEhg8cx3A2nxf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UePfw6LwJiS1IokEhg8cx3A2nxf",
+      "updatedAt": "2025-05-26T18:31:11.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "查询销售员分组列表",
+      "docToken": "SA95wPNl7i8vZSkuVXEcv2Vvnid",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SA95wPNl7i8vZSkuVXEcv2Vvnid",
+      "updatedAt": "2026-01-21T09:14:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "创建分销员团队接口",
+      "docToken": "LNFiwEFnRinXAdkTvducUdqtnjg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LNFiwEFnRinXAdkTvducUdqtnjg",
+      "updatedAt": "2026-01-21T09:23:34.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "分销员批量移动团队",
+      "docToken": "PY47wuTzQiMbVzkmJJrcfUofn1b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PY47wuTzQiMbVzkmJJrcfUofn1b",
+      "updatedAt": "2026-01-25T02:07:49.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "更新销售员信息",
+      "docToken": "T2dJwbRnUiqXKhkwWQjcndjenrr",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/T2dJwbRnUiqXKhkwWQjcndjenrr",
+      "updatedAt": "2026-01-21T09:05:54.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "获取店铺分销员列表",
+      "docToken": "B9ZJwcRTji70rNkGUVpcuROZn2d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B9ZJwcRTji70rNkGUVpcuROZn2d",
+      "updatedAt": "2026-04-09T12:19:25.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "获取店铺团队信息列表",
+      "docToken": "OTILwTHisi2E2GkYxCdcXYl1nVc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OTILwTHisi2E2GkYxCdcXYl1nVc",
+      "updatedAt": "2026-01-21T09:19:07.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "获取店铺下销售员等级信息",
+      "docToken": "GWjewO0p8itcwKklGricmI53nqe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GWjewO0p8itcwKklGricmI53nqe",
+      "updatedAt": "2026-01-21T09:12:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "获取某团队下的分销员列表",
+      "docToken": "LXI2wtLs8iAb31kcWhScBDljnkf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LXI2wtLs8iAb31kcWhScBDljnkf",
+      "updatedAt": "2026-01-21T09:16:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "获取销售员业绩统计",
+      "docToken": "DFyow4DB8igQbukxodNcJj3fnBb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DFyow4DB8igQbukxodNcJj3fnBb",
+      "updatedAt": "2026-01-24T13:28:57.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "获取销售员账户信息",
+      "docToken": "PR37wJyTHiSg25kvnvicmy4InNe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PR37wJyTHiSg25kvnvicmy4InNe",
+      "updatedAt": "2026-01-21T08:13:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "批量移除分销员团队队员",
+      "docToken": "An1dwvN6gir7d5kLHelc63EVnGb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/An1dwvN6gir7d5kLHelc63EVnGb",
+      "updatedAt": "2026-01-21T09:21:18.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "清退销售员",
+      "docToken": "NEIgwGFcciT4WKkkIujcfThMnTe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NEIgwGFcciT4WKkkIujcfThMnTe",
+      "updatedAt": "2026-01-21T09:10:23.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "设置用户为销售员",
+      "docToken": "XUmUwPgAuijVBVkKkqscDFEHnFd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XUmUwPgAuijVBVkKkqscDFEHnFd",
+      "updatedAt": "2026-05-22T08:10:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "通过上级销售员查询下级销售员",
+      "docToken": "DExxwimuAiHLu5krichc6oFJnje",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DExxwimuAiHLu5krichc6oFJnje",
+      "updatedAt": "2026-01-21T09:08:14.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分销员 / 分销员信息管理",
+      "name": "新建分销员分组标签",
+      "docToken": "G3jtwkAwri2NcCkjJTbc3lXKnOg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G3jtwkAwri2NcCkjJTbc3lXKnOg",
+      "updatedAt": "2026-01-21T08:59:16.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "分组",
+      "name": "编辑商品分组",
+      "docToken": "LffDwXepbid3rLkIbu3cK0vLnlc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LffDwXepbid3rLkIbu3cK0vLnlc",
+      "updatedAt": "2026-01-21T02:59:10.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分组",
+      "name": "查询商品分组子分组",
+      "docToken": "M9l9wOnjdisKwjkpdO6cqUd9nnh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/M9l9wOnjdisKwjkpdO6cqUd9nnh",
+      "updatedAt": "2026-01-21T03:14:08.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分组",
+      "name": "创建商品分组",
+      "docToken": "HSwEwijdEivQuvke9BicyEEPnHf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HSwEwijdEivQuvke9BicyEEPnHf",
+      "updatedAt": "2025-02-08T03:37:33.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分组",
+      "name": "创建商品分组",
+      "docToken": "TDmDwTf2Pi97eQknGbZcZt5Yngf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TDmDwTf2Pi97eQknGbZcZt5Yngf",
+      "updatedAt": "2026-01-21T02:54:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分组",
+      "name": "批量查商品分组详情",
+      "docToken": "H1aGwSTFVisj5ak6HlWcCyeQnIb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/H1aGwSTFVisj5ak6HlWcCyeQnIb",
+      "updatedAt": "2026-01-21T03:09:19.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "分组",
+      "name": "删除商品分组",
+      "docToken": "SNYkwdUQGiEChSkiYD7cZAUAnTf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SNYkwdUQGiEChSkiYD7cZAUAnTf",
+      "updatedAt": "2026-01-21T03:04:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "分组",
+      "name": "搜索商品分组",
+      "docToken": "Nf48wDdxoigV5AkqlXPcaG32nOh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Nf48wDdxoigV5AkqlXPcaG32nOh",
+      "updatedAt": "2026-01-21T03:19:20.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "购物车",
+      "name": "查询购物车商品列表",
+      "docToken": "LvZzwTdCWigLv6k4FXNcuZiKnEh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LvZzwTdCWigLv6k4FXNcuZiKnEh",
+      "updatedAt": "2026-01-24T17:35:11.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "购物车",
+      "name": "查询购物车商品种类数量",
+      "docToken": "MODjwSJN7irJHVkNKC5cQ5Aanxd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MODjwSJN7irJHVkNKC5cQ5Aanxd",
+      "updatedAt": "2026-01-24T17:37:19.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "购物车",
+      "name": "更新购物车部分商品选中状态",
+      "docToken": "TsoXwROUGiVYvJkntbFcx1Xoneb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TsoXwROUGiVYvJkntbFcx1Xoneb",
+      "updatedAt": "2026-01-24T17:47:55.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "购物车",
+      "name": "更新购物车全部商品选中状态",
+      "docToken": "A1XLwh48yi65o2kjTO0cFTGWnwd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/A1XLwh48yi65o2kjTO0cFTGWnwd",
+      "updatedAt": "2026-01-24T17:50:07.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "购物车",
+      "name": "更新购物车商品规格",
+      "docToken": "AtWLwwhIyiCCxkkWNNycIB0onQh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AtWLwwhIyiCCxkkWNNycIB0onQh",
+      "updatedAt": "2026-01-24T17:45:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "购物车",
+      "name": "更新购物车商品数量",
+      "docToken": "B8WUw7yQEi41IgkiRyEckuOwnle",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B8WUw7yQEi41IgkiRyEckuOwnle",
+      "updatedAt": "2026-01-24T17:43:44.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "购物车",
+      "name": "批量删除购物车商品",
+      "docToken": "JiCRw9B5ZiCX0xkqlaJcErFenPb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JiCRw9B5ZiCX0xkqlaJcErFenPb",
+      "updatedAt": "2026-01-24T17:41:36.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "购物车",
+      "name": "添加购物车商品",
+      "docToken": "ZDCxwgmC5idVBTkmS5Qczig4nGe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZDCxwgmC5idVBTkmS5Qczig4nGe",
+      "updatedAt": "2026-01-24T17:39:29.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "参与抽奖活动",
+      "docToken": "DZU4wKb9UiNF4ZkzEvCcgI12nqg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DZU4wKb9UiNF4ZkzEvCcgI12nqg",
+      "updatedAt": "2026-01-25T07:04:02.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "查询用户签到明细",
+      "docToken": "L83Ew5VCAiyGMFktOxvcZo3rn7g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/L83Ew5VCAiyGMFktOxvcZo3rn7g",
+      "updatedAt": "2026-01-25T07:06:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "查询用户签到状态",
+      "docToken": "IqXtwfVxZids06kpts2cwnK9nbb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IqXtwfVxZids06kpts2cwnK9nbb",
+      "updatedAt": "2025-09-18T09:42:04.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "查询用户签到状态",
+      "docToken": "AmPQwCVFTiezi1kPbrDcddtunyf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AmPQwCVFTiezi1kPbrDcddtunyf",
+      "updatedAt": "2026-01-25T07:08:20.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "创建单个抽奖类活动",
+      "docToken": "I470wMbkUiZeVUkCPmxcVpQ5ndd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/I470wMbkUiZeVUkCPmxcVpQ5ndd",
+      "updatedAt": "2026-01-25T06:48:49.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "分页获取抽奖活动参与记录",
+      "docToken": "ZanBwmxruiMZNskNLZGc29N8njb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZanBwmxruiMZNskNLZGc29N8njb",
+      "updatedAt": "2026-01-25T07:01:45.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "更新单个抽奖类活动",
+      "docToken": "TFElw2NmliCck3kYGmLc8xD5nUd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TFElw2NmliCck3kYGmLc8xD5nUd",
+      "updatedAt": "2026-01-25T06:50:54.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "获取抽奖类活动列表",
+      "docToken": "IgAGwI3WwiMFT6kKoPmcMlscntJ",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IgAGwI3WwiMFT6kKoPmcMlscntJ",
+      "updatedAt": "2026-01-25T06:59:39.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "获取单个抽奖类活动信息",
+      "docToken": "YdWewJSdpisouAkctOLc065ynPc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YdWewJSdpisouAkctOLc065ynPc",
+      "updatedAt": "2026-01-25T06:53:01.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "继续抽奖类活动",
+      "docToken": "DJVvw2dvYilhnQkfLBfcflMbnXr",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DJVvw2dvYilhnQkfLBfcflMbnXr",
+      "updatedAt": "2026-01-25T06:57:27.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "删除抽奖类活动",
+      "docToken": "LBopwjXgTiesY3kG3D0c1AlMnfd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LBopwjXgTiesY3kG3D0c1AlMnfd",
+      "updatedAt": "2026-01-25T06:45:35.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "互动类活动",
+      "name": "暂停单个抽奖类活动",
+      "docToken": "V0sswHfIKiBg4mkYKARcaNExnBf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/V0sswHfIKiBg4mkYKARcaNExnBf",
+      "updatedAt": "2026-01-25T06:55:15.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "会员等级",
+      "name": "查询客户成长值流水",
+      "docToken": "Q19xwM0gsiwgllkFsUtcPbownUb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Q19xwM0gsiwgllkFsUtcPbownUb",
+      "updatedAt": "2026-01-21T07:33:45.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "会员等级",
+      "name": "查询客户付费等级设置记录",
+      "docToken": "AtdiwZgPdixjpOkwh7lc6QcenWc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AtdiwZgPdixjpOkwh7lc6QcenWc",
+      "updatedAt": "2025-05-08T07:33:49.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "会员等级",
+      "name": "给客户加成长值",
+      "docToken": "NeR7w8Yshi7OYnkehCJcK7M0nuf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NeR7w8Yshi7OYnkehCJcK7M0nuf",
+      "updatedAt": "2026-01-21T07:29:18.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "会员等级",
+      "name": "给客户减成长值",
+      "docToken": "UCHJwYbFMiCyq7ksM7Gcaz9RnQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UCHJwYbFMiCyq7ksM7Gcaz9RnQf",
+      "updatedAt": "2026-01-21T07:25:02.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "会员等级",
+      "name": "会员免费等级删除",
+      "docToken": "LNaswkFRBifNmbk3jXNcDYrpnSd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LNaswkFRBifNmbk3jXNcDYrpnSd",
+      "updatedAt": "2026-01-21T07:22:47.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "会员等级",
+      "name": "获取该商家的会员等级模版列表",
+      "docToken": "S5kRwnFJ8ixrCikhzhDcPGtqnVf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/S5kRwnFJ8ixrCikhzhDcPGtqnVf",
+      "updatedAt": "2026-01-21T07:36:04.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "会员等级",
+      "name": "获取客户成长值",
+      "docToken": "YQQBw7CamiUKQBkqunCcBcnUnrh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YQQBw7CamiUKQBkqunCcBcnUnrh",
+      "updatedAt": "2026-01-21T07:31:39.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "会员等级",
+      "name": "获取C端客户等级",
+      "docToken": "K1bdwxt4AiFFOpkB0UVcjT2Un0c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K1bdwxt4AiFFOpkB0UVcjT2Un0c",
+      "updatedAt": "2026-01-21T07:18:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "会员等级",
+      "name": "批量获取客户成长值",
+      "docToken": "IPbRwOPMSiH6LokY6CYcx73nntk",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IPbRwOPMSiH6LokY6CYcx73nntk",
+      "updatedAt": "2026-01-21T07:27:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "会员等级",
+      "name": "删除付费等级",
+      "docToken": "Gf7KwvW3OivrSDkC4m2cA6kqnbe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Gf7KwvW3OivrSDkC4m2cA6kqnbe",
+      "updatedAt": "2025-05-08T07:29:19.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "会员等级",
+      "name": "设置付费等级",
+      "docToken": "UvhGwURZoiE2h2kNb1lcgHGZngf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UvhGwURZoiE2h2kNb1lcgHGZngf",
+      "updatedAt": "2026-01-23T09:24:55.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "会员等级",
+      "name": "设置会员等级",
+      "docToken": "Yc14w7RVbi6TXhktS9xcc0fnnqc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Yc14w7RVbi6TXhktS9xcc0fnnqc",
+      "updatedAt": "2026-01-21T07:20:36.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "积分",
+      "name": "查询客户当前积分",
+      "docToken": "SxGawlMSTiDAPkkRPM0cCtUKnky",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SxGawlMSTiDAPkkRPM0cCtUKnky",
+      "updatedAt": "2026-01-23T11:15:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分",
+      "name": "查询客户积分日志",
+      "docToken": "Euk6w3Jx5iNNMRkeC93c0Zoynve",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Euk6w3Jx5iNNMRkeC93c0Zoynve",
+      "updatedAt": "2026-07-15T07:52:16.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分",
+      "name": "冻结&消耗客户积分",
+      "docToken": "JFNiwqxzti5kw5kBln5cT0WXnYf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JFNiwqxzti5kw5kBln5cT0WXnYf",
+      "updatedAt": "2026-01-23T11:00:20.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "冻结客户积分",
+      "docToken": "DGBQweu2zi9RWkkP5KLcv0FWnqd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DGBQweu2zi9RWkkP5KLcv0FWnqd",
+      "updatedAt": "2026-01-23T11:08:48.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "给客户加积分",
+      "docToken": "LlH1w7VhSiK0Rrk4usUcaXy2noe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LlH1w7VhSiK0Rrk4usUcaXy2noe",
+      "updatedAt": "2026-01-23T11:13:08.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "给客户减积分",
+      "docToken": "EStmwkqhtineYokZ2blctwYnnRe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EStmwkqhtineYokZ2blctwYnnRe",
+      "updatedAt": "2026-01-23T11:17:25.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "更新积分抵现规则开启状态",
+      "docToken": "VzWAwKP1NilN2Hkiy4ncOhLVnuc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VzWAwKP1NilN2Hkiy4ncOhLVnuc",
+      "updatedAt": "2026-01-23T11:21:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "积分",
+      "name": "回补客户积分",
+      "docToken": "QndKwlTWGiGuN0kqc32crIJ9ntb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QndKwlTWGiGuN0kqc32crIJ9ntb",
+      "updatedAt": "2026-01-24T19:20:56.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "获取客户积分兑换记录",
+      "docToken": "Pigqw6bqjiefFnkWJc4c1XfMnKW",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Pigqw6bqjiefFnkWJc4c1XfMnKW",
+      "updatedAt": "2026-01-23T11:28:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分",
+      "name": "获取商家积分规则",
+      "docToken": "UwGjwyqOFiwb53k5qP7ciJUknxb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UwGjwyqOFiwb53k5qP7ciJUknxb",
+      "updatedAt": "2026-01-23T11:04:29.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分",
+      "name": "积分消费规则查询",
+      "docToken": "HzjQw3M2tiDUOEkXcmKcl2XTncc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HzjQw3M2tiDUOEkXcmKcl2XTncc",
+      "updatedAt": "2026-01-23T11:25:58.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分",
+      "name": "解冻客户积分",
+      "docToken": "HnlLwQRnVihri3kGKhzc5L09nGc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HnlLwQRnVihri3kGKhzc5L09nGc",
+      "updatedAt": "2026-01-23T11:36:53.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "同步客户积分",
+      "docToken": "IsoIwah2ZiMMT8kvOuMcZRCXnxh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IsoIwah2ZiMMT8kvOuMcZRCXnxh",
+      "updatedAt": "2026-01-23T11:19:41.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "积分",
+      "name": "消耗客户积分",
+      "docToken": "RReKw4uRaiykx7kKpoNcT8emnnd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RReKw4uRaiykx7kKpoNcT8emnnd",
+      "updatedAt": "2026-01-23T11:02:23.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分",
+      "name": "增加有效期积分",
+      "docToken": "KWsAwdIXFi6sWCk61cbchrcin0g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KWsAwdIXFi6sWCk61cbchrcin0g",
+      "updatedAt": "2026-01-23T11:10:54.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "积分商城",
+      "name": "查询积分商城兑换商品",
+      "docToken": "IQDzwBMovi5eirkUP4YcpmN0nre",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IQDzwBMovi5eirkUP4YcpmN0nre",
+      "updatedAt": "2026-01-23T10:40:33.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分商城",
+      "name": "查询积分商城兑换状态",
+      "docToken": "H1PawYnl4iqfDbk0z0FcqrlMnkh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/H1PawYnl4iqfDbk0z0FcqrlMnkh",
+      "updatedAt": "2026-01-23T11:34:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分商城",
+      "name": "创建积分商城活动",
+      "docToken": "YPcEwFLtyiUopTkqSrYcNmmlnlb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YPcEwFLtyiUopTkqSrYcNmmlnlb",
+      "updatedAt": "2026-03-18T06:56:14.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "积分商城",
+      "name": "更新积分商城商品信息",
+      "docToken": "EnNvwIfjziAfwFkCkaYcEKWenEp",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EnNvwIfjziAfwFkCkaYcEKWenEp",
+      "updatedAt": "2026-01-24T19:23:04.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "积分商城",
+      "name": "获取积分商城商品活动兑换限制和已兑数量",
+      "docToken": "IAFQwGRariVS3IkP8Nec4rJinfg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IAFQwGRariVS3IkP8Nec4rJinfg",
+      "updatedAt": "2026-01-23T11:06:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分商城",
+      "name": "获取商品关联的积分商城活动信息",
+      "docToken": "PDj7wIpGEiy3ZTkJqxVcscLwnjc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PDj7wIpGEiy3ZTkJqxVcscLwnjc",
+      "updatedAt": "2026-02-27T03:05:47.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "积分商城",
+      "name": "删除积分商城的积分商品信息",
+      "docToken": "XrdWw5qnJi3jcik11kWc6md9nEb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XrdWw5qnJi3jcik11kWc6md9nEb",
+      "updatedAt": "2026-01-23T10:53:31.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "采购退货单查询接口",
+      "docToken": "ALZ0whE58iAbg9kkwKmcpBBInQe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ALZ0whE58iAbg9kkwKmcpBBInQe",
+      "updatedAt": "2026-01-25T04:45:40.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询采购单详情",
+      "docToken": "TPYow9fFsiOmb9kg96nchYhhnpg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TPYow9fFsiOmb9kg96nchYhhnpg",
+      "updatedAt": "2026-01-25T04:39:07.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询采购供应商商品价格",
+      "docToken": "BX7LwablCi8whTkLC82cjQOznWC",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BX7LwablCi8whTkLC82cjQOznWC",
+      "updatedAt": "2026-01-25T04:34:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询仓库商品库存",
+      "docToken": "QoFcw0OFDidnP4kGqgkcaCyCnve",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QoFcw0OFDidnP4kGqgkcaCyCnve",
+      "updatedAt": "2026-01-25T07:10:24.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询差异单详情",
+      "docToken": "OooOwMS1qi8pbHk1NVvc91LVnWg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OooOwMS1qi8pbHk1NVvc91LVnWg",
+      "updatedAt": "2026-01-25T05:53:43.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询调拨单详情",
+      "docToken": "F7zbwANZXi3PazkI8pNcvfcDnPg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/F7zbwANZXi3PazkI8pNcvfcDnPg",
+      "updatedAt": "2026-07-30T04:01:26.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询盘点单详情",
+      "docToken": "DBP4wYjVpi0IdskkCZjcs5TunVg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DBP4wYjVpi0IdskkCZjcs5TunVg",
+      "updatedAt": "2026-01-25T06:39:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询配销单详情",
+      "docToken": "HEEMwcj1YiQMCykbQWQcXgjwnTd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HEEMwcj1YiQMCykbQWQcXgjwnTd",
+      "updatedAt": "2026-01-25T05:40:49.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询配销退货单详情",
+      "docToken": "KjxdwJQhFiZRPMkKK2mcccGhnag",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KjxdwJQhFiZRPMkKK2mcccGhnag",
+      "updatedAt": "2026-01-25T05:42:54.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询入库单详情",
+      "docToken": "Pb2DwbMIYiukMZkBdMzcnw0JnAf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Pb2DwbMIYiukMZkBdMzcnw0JnAf",
+      "updatedAt": "2026-01-25T04:50:03.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询商品出库单详情",
+      "docToken": "QpKzw66EpiKe30kIZN9cMGPLnNe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QpKzw66EpiKe30kIZN9cMGPLnNe",
+      "updatedAt": "2026-01-25T06:19:46.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "进出存",
+      "name": "查询总部下门店和仓库信息",
+      "docToken": "UIZRwXlXsiitDSkKeSbcOo6xnWh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UIZRwXlXsiitDSkKeSbcOo6xnWh",
+      "updatedAt": "2026-01-25T06:04:34.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "出入库单据审核",
+      "docToken": "HnwNwe6YviR882kk5mYc91yOnVd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HnwNwe6YviR882kk5mYc91yOnVd",
+      "updatedAt": "2025-09-12T05:04:22.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "出入库单据审核",
+      "docToken": "PmdCwVyxXiFzN4kRePrcEjpcnyh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PmdCwVyxXiFzN4kRePrcEjpcnyh",
+      "updatedAt": "2026-01-25T06:30:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "创建采购订单",
+      "docToken": "UtGLwUuqWiMP85kxF54cuM0anXc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UtGLwUuqWiMP85kxF54cuM0anXc",
+      "updatedAt": "2026-01-25T04:36:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "创建出库单",
+      "docToken": "KKXawXfDOi84uNkstmycdOflngc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KKXawXfDOi84uNkstmycdOflngc",
+      "updatedAt": "2026-01-25T06:17:33.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "创建盘点单",
+      "docToken": "UQLlwy7Cmi1WdbkIelvcpZvfnsb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UQLlwy7Cmi1WdbkIelvcpZvfnsb",
+      "updatedAt": "2026-01-25T06:37:04.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "创建配销单",
+      "docToken": "TNxPwEiPuiicgukHH1ucsjQGngd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TNxPwEiPuiicgukHH1ucsjQGngd",
+      "updatedAt": "2026-01-25T05:38:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "创建入库单",
+      "docToken": "MAOqwbyZZiiXuVkQeT1cZSDRnVb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MAOqwbyZZiiXuVkQeT1cZSDRnVb",
+      "updatedAt": "2026-01-25T04:47:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "调拨单创建",
+      "docToken": "GBIhwoSC1ip2lakysXUcG1oBnzh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GBIhwoSC1ip2lakysXUcG1oBnzh",
+      "updatedAt": "2026-07-31T05:07:04.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "分页查询库存模式",
+      "docToken": "DiBFw9a4Ui1KVvkE8XHcUtimnkb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DiBFw9a4Ui1KVvkE8XHcUtimnkb",
+      "updatedAt": "2026-01-25T09:29:37.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "根据加工单编号查询加工单信息",
+      "docToken": "E2erwUjUFi0oE8kqe7IcZMyknGe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/E2erwUjUFi0oE8kqe7IcZMyknGe",
+      "updatedAt": "2026-01-25T06:32:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "根据配方编号查询配方详情",
+      "docToken": "HZUdwExO9ivU73kHl7YcETuxnzh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HZUdwExO9ivU73kHl7YcETuxnzh",
+      "updatedAt": "2026-01-25T06:34:44.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "更改唯一码",
+      "docToken": "DsfgwSnNRi5V6gkYNsgcM5avnvh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DsfgwSnNRi5V6gkYNsgcM5avnvh",
+      "updatedAt": "2026-01-25T07:14:46.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "进出存",
+      "name": "更新采购订单商品采购单价",
+      "docToken": "AUQewNsffiNAuMknWujcFNoMn4e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AUQewNsffiNAuMknWujcFNoMn4e",
+      "updatedAt": "2026-01-25T04:41:19.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "更新供应商信息",
+      "docToken": "VBmXwss2Vi15tTktg4Hc5KoMnxg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VBmXwss2Vi15tTktg4Hc5KoMnxg",
+      "updatedAt": "2026-01-25T04:28:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "供应商查询",
+      "docToken": "HBNfwvTdkieZpRkFRwHcxydlnIh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HBNfwvTdkieZpRkFRwHcxydlnIh",
+      "updatedAt": "2026-01-25T04:32:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "供应商信息删除",
+      "docToken": "P2VwwrVDEiU0YSkvSeOcchn0n0b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/P2VwwrVDEiU0YSkvSeOcchn0n0b",
+      "updatedAt": "2026-01-25T04:25:58.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "供应商信息新增",
+      "docToken": "FPJcw8yTJiPgeFklGqhci6Y4nOh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FPJcw8yTJiPgeFklGqhci6Y4nOh",
+      "updatedAt": "2026-01-25T04:23:49.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "零售库存唯一码查询",
+      "docToken": "KesBwwEGpiSMxvk0LIZcobIgncd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KesBwwEGpiSMxvk0LIZcobIgncd",
+      "updatedAt": "2026-01-25T07:12:36.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "批量查询出库单",
+      "docToken": "Na7iwYw96i3ruNk0MgwcHukrnGg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Na7iwYw96i3ruNk0MgwcHukrnGg",
+      "updatedAt": "2026-01-25T06:21:50.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "进出存",
+      "name": "批量查询供应商-仅限总部查询",
+      "docToken": "OCqSwDqEEiA7KBk70PXcQ16Znzh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OCqSwDqEEiA7KBk70PXcQ16Znzh",
+      "updatedAt": "2026-01-25T04:30:15.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "批量查询入库单详情",
+      "docToken": "FU6iwVQyMiU2C6k3iAFcXBDLnFc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FU6iwVQyMiU2C6k3iAFcXBDLnFc",
+      "updatedAt": "2026-01-25T06:28:27.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "进出存",
+      "name": "批量查询要货申请单",
+      "docToken": "Hpwyw1GQuiImRkkPqmQcUX7Pn7f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Hpwyw1GQuiImRkkPqmQcUX7Pn7f",
+      "updatedAt": "2026-01-25T05:00:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "全量更新仓库计划库存",
+      "docToken": "AL2ywgZmqiP1h1k6xCKcViAwnVe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AL2ywgZmqiP1h1k6xCKcViAwnVe",
+      "updatedAt": "2026-01-25T06:10:59.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "实物库存调整",
+      "docToken": "V7ukwACygiE2tYkPgVxcD6ronjh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/V7ukwACygiE2tYkPgVxcD6ronjh",
+      "updatedAt": "2026-01-25T06:08:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "进出存",
+      "name": "通过要货申请单编号查询要货申请单详细信息",
+      "docToken": "W1TXwborGipbDEkJZgOcbtvxnbf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/W1TXwborGipbDEkJZgOcbtvxnbf",
+      "updatedAt": "2026-01-25T05:02:54.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "进出存",
+      "name": "完成采购订单",
+      "docToken": "BJKuwGLSIius10kRMRzctpHXnKi",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BJKuwGLSIius10kRMRzctpHXnKi",
+      "updatedAt": "2026-01-25T04:43:31.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "进出存",
+      "name": "要货申请单审核",
+      "docToken": "NLstw8bYRihZMok47WzcRkWynue",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NLstw8bYRihZMok47WzcRkWynue",
+      "updatedAt": "2026-01-25T05:05:01.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡查询",
+      "name": "查询单个用户在该店铺发行的储值卡",
+      "docToken": "EZQUwCy0nilICJkXv5Fc40lrnTc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EZQUwCy0nilICJkXv5Fc40lrnTc",
+      "updatedAt": "2026-01-25T11:25:52.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "查询该店铺发行的储值卡列表",
+      "docToken": "Ic3FwUSD2iGiNCk4ep1cUwljnMf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Ic3FwUSD2iGiNCk4ep1cUwljnMf",
+      "updatedAt": "2025-12-26T13:22:15.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "查询可在该店铺内使用的储值卡",
+      "docToken": "EKDcwy3rwiUu5dkL1V7cs0g7nWl",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EKDcwy3rwiUu5dkL1V7cs0g7nWl",
+      "updatedAt": "2026-01-25T10:53:36.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "查询礼品卡明细接口",
+      "docToken": "FIrxwNo6Vi2Qe8k5HWmcBSrHnQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FIrxwNo6Vi2Qe8k5HWmcBSrHnQf",
+      "updatedAt": "2026-01-25T11:47:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "查询用户可用储值卡列表",
+      "docToken": "RtzvwsedEi2PBvkLZMucfqXNnSd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RtzvwsedEi2PBvkLZMucfqXNnSd",
+      "updatedAt": "2026-01-25T11:53:47.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "分页查询该店铺下的用户购卡详情",
+      "docToken": "Qy0ewUXDRiJaKRkt8Gec6Atcnlg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Qy0ewUXDRiJaKRkt8Gec6Atcnlg",
+      "updatedAt": "2026-01-25T11:32:13.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "分页查询主卡下的子卡列表",
+      "docToken": "TjgRwmuiPi64fikQpdccT1KSnSb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TjgRwmuiPi64fikQpdccT1KSnSb",
+      "updatedAt": "2026-01-25T10:55:47.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "根据储值卡号查询储值卡信息",
+      "docToken": "GTjBwyzJDiBHzqkhGPhcGeO5nMd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GTjBwyzJDiBHzqkhGPhcGeO5nMd",
+      "updatedAt": "2026-01-25T11:56:00.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "根据订单号查询已经开卡成功的卡号列表",
+      "docToken": "OhbvwzJnRiJPr2k4iRXc21a7nkg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OhbvwzJnRiJPr2k4iRXc21a7nkg",
+      "updatedAt": "2026-01-25T12:08:56.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡查询",
+      "name": "根据卡模板号分页查询卡信息列表",
+      "docToken": "YNnfwYAVUiRx3LkFxn5c4zXcndb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YNnfwYAVUiRx3LkFxn5c4zXcndb",
+      "updatedAt": "2026-01-25T11:45:20.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "获取搜狗输入法\"会员储值\"卡项信息",
+      "docToken": "P0KQwuuKPi1mCXkkXHYc1nGYnVf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/P0KQwuuKPi1mCXkkXHYc1nGYnVf",
+      "updatedAt": "2026-01-25T11:02:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡查询",
+      "name": "下单页检查卡列表",
+      "docToken": "ExHlwB0KaiUPbwk7m2ocxvp5nZd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ExHlwB0KaiUPbwk7m2ocxvp5nZd",
+      "updatedAt": "2026-01-25T12:30:32.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡管理",
+      "name": "查询充值结果信息",
+      "docToken": "JzxTwG7yWi6mDIkzYc5c8Xmxn5b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JzxTwG7yWi6mDIkzYc5c8Xmxn5b",
+      "updatedAt": "2026-01-25T12:15:21.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡管理",
+      "name": "查询店铺下的所有储值卡退卡记录",
+      "docToken": "JRDkwExCNimaywkFRdrcBrpqneh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JRDkwExCNimaywkFRdrcBrpqneh",
+      "updatedAt": "2026-01-25T11:23:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡管理",
+      "name": "查询退卡进度",
+      "docToken": "BdFdw8CTxiW6khkjaVOcLlRTn1g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BdFdw8CTxiW6khkjaVOcLlRTn1g",
+      "updatedAt": "2026-01-25T11:19:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡管理",
+      "name": "储值卡充值",
+      "docToken": "B7oUwgN3lindyykRRZgcQumAnng",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B7oUwgN3lindyykRRZgcQumAnng",
+      "updatedAt": "2026-01-25T11:08:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "储值卡调账",
+      "docToken": "GyAewaVbliC6hfkU1YNcMKornof",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GyAewaVbliC6hfkU1YNcMKornof",
+      "updatedAt": "2026-01-25T12:00:15.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "卡管理",
+      "name": "储值卡申请退卡",
+      "docToken": "G3CVwiEo5i6UnFkba68clWjLnDc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G3CVwiEo5i6UnFkba68clWjLnDc",
+      "updatedAt": "2026-01-25T11:06:31.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "卡管理",
+      "name": "储值卡退卡手续费规则查询",
+      "docToken": "W8eswUPxOiqOMlkHMuycwKyyn4l",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/W8eswUPxOiqOMlkHMuycwKyyn4l",
+      "updatedAt": "2026-01-25T10:57:51.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡管理",
+      "name": "储值卡退款",
+      "docToken": "DCaswXjYIiRwnckbK2pcd7AEnye",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DCaswXjYIiRwnckbK2pcd7AEnye",
+      "updatedAt": "2026-01-25T11:30:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "储值卡支付",
+      "docToken": "WkCswaWpLigAPuk0Ibac4xWHnqB",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WkCswaWpLigAPuk0Ibac4xWHnqB",
+      "updatedAt": "2026-01-25T10:44:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "根据卡号修改礼品卡图片、卡名称",
+      "docToken": "A51BwE0wRibdMtkaPp9c5QV6nJg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/A51BwE0wRibdMtkaPp9c5QV6nJg",
+      "updatedAt": "2026-01-25T11:38:44.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "批量查询退款结果记录",
+      "docToken": "TczVw15pWinlAqk948ncqdu8n9g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TczVw15pWinlAqk948ncqdu8n9g",
+      "updatedAt": "2026-01-25T11:04:24.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡管理",
+      "name": "同步储值卡资金变动流水信息至有赞",
+      "docToken": "CDaPwLsYniGRMfkgKZ3ctMA9n3f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CDaPwLsYniGRMfkgKZ3ctMA9n3f",
+      "updatedAt": "2026-01-25T12:19:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "同步储值卡资金变动流水信息至有赞结果查询",
+      "docToken": "AEh6wlwZmiXbyIkHCgzcOsz2nUh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AEh6wlwZmiXbyIkHCgzcOsz2nUh",
+      "updatedAt": "2026-01-25T12:06:45.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡管理",
+      "name": "退款结果查询",
+      "docToken": "QZfiwS3XJiyq2LkzD7WcizCwnbJ",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QZfiwS3XJiyq2LkzD7WcizCwnbJ",
+      "updatedAt": "2026-01-25T11:15:08.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡管理",
+      "name": "外部储值开卡接口",
+      "docToken": "LkXnwpFggiwuFGkxmKFcRszmnih",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LkXnwpFggiwuFGkxmKFcRszmnih",
+      "updatedAt": "2026-01-25T12:13:17.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "用户取消退卡申请接口【退卡状态未审批时可用】",
+      "docToken": "FRKlwjcbqirndPkLUzXc8CPBn0d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FRKlwjcbqirndPkLUzXc8CPBn0d",
+      "updatedAt": "2026-01-25T10:47:03.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "卡管理",
+      "name": "支付结果查询",
+      "docToken": "KsHtwzeN9id0f3kd72KcyZaGnmD",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KsHtwzeN9id0f3kd72KcyZaGnmD",
+      "updatedAt": "2026-01-25T10:42:42.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "按条件分页查询在该店铺发生的调账记录",
+      "docToken": "TZa5wWyHYiBDPlkix06c3XFen2e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TZa5wWyHYiBDPlkix06c3XFen2e",
+      "updatedAt": "2026-01-25T12:04:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "查询该店铺发行的储值卡的充值记录",
+      "docToken": "HcqlwFst9iiGXqkBuDNcJVobnHr",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HcqlwFst9iiGXqkBuDNcJVobnHr",
+      "updatedAt": "2026-01-25T12:24:02.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "查询该店铺发行的储值卡的退款记录",
+      "docToken": "GKbDwhm5IiCRuCkDNZWctG9Jnmg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GKbDwhm5IiCRuCkDNZWctG9Jnmg",
+      "updatedAt": "2026-01-25T11:21:37.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "查询该店铺发行的储值卡的支付记录",
+      "docToken": "TACmwrlITi58oRkfPT6cqMkKneh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TACmwrlITi58oRkfPT6cqMkKneh",
+      "updatedAt": "2026-01-25T11:17:14.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "查询在当前店铺发生的充值记录",
+      "docToken": "Q7U6w9WWTiKba6kEdkrcWxODnWd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Q7U6w9WWTiKba6kEdkrcWxODnWd",
+      "updatedAt": "2026-01-25T12:17:34.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "查询在该店铺发生的退款记录",
+      "docToken": "W0dWwupU9ivcEqkubeFcgfm8nnY",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/W0dWwupU9ivcEqkubeFcgfm8nnY",
+      "updatedAt": "2026-01-25T11:28:00.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "查询在该店铺发生的支付记录",
+      "docToken": "JxCxwFUFQi5OtTkV4nYcsAohnAg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JxCxwFUFQi5OtTkV4nYcsAohnAg",
+      "updatedAt": "2026-01-25T11:13:02.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "批量查询储值交易查询的记录",
+      "docToken": "AnuNwfLLriS0FFk1mq9cn8vWnZc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AnuNwfLLriS0FFk1mq9cn8vWnZc",
+      "updatedAt": "2026-01-25T11:40:58.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡流水查询",
+      "name": "用户卡账单查询",
+      "docToken": "LBzKw3mf0ikVLbk0MOIc3QfAn8e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LBzKw3mf0ikVLbk0MOIc3QfAn8e",
+      "updatedAt": "2026-01-25T11:43:07.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡模板",
+      "name": "储值模板充值规则查询",
+      "docToken": "UfEgwgzeXixJTskRUyQcqjYIn5d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UfEgwgzeXixJTskRUyQcqjYIn5d",
+      "updatedAt": "2026-01-25T10:49:09.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡模板",
+      "name": "分页查询某店铺下的所有未被删除的卡模板信息列表",
+      "docToken": "L8UIwWmTyiMoexkDB99cRCzxnPh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/L8UIwWmTyiMoexkDB99cRCzxnPh",
+      "updatedAt": "2026-01-25T11:51:40.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "卡模板",
+      "name": "购卡中心分页查询",
+      "docToken": "RQKCwH5kpiAoRhkEWGDcMLxwnng",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RQKCwH5kpiAoRhkEWGDcMLxwnng",
+      "updatedAt": "2026-01-25T12:26:08.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "卡模板",
+      "name": "卡模板详情",
+      "docToken": "IctbwDJUpi9H9hkza3bcshQpnGg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IctbwDJUpi9H9hkza3bcshQpnGg",
+      "updatedAt": "2026-01-25T12:39:22.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "开门码",
+      "name": "三方同步闸机开门码",
+      "docToken": "YRvnwk1wMioAoakELIYcB4Uinqb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YRvnwk1wMioAoakELIYcB4Uinqb",
+      "updatedAt": "2026-07-03T04:34:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "客户",
+      "name": "查询客户详细信息",
+      "docToken": "N5pBw9mlqiSBq7ksm4Acx8RNnjg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/N5pBw9mlqiSBq7ksm4Acx8RNnjg",
+      "updatedAt": "2026-05-06T08:57:08.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "客户",
+      "name": "创建客户",
+      "docToken": "RCxaw6H1Hi3KvnkSEcHcpy2lngc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RCxaw6H1Hi3KvnkSEcHcpy2lngc",
+      "updatedAt": "2026-01-21T05:39:24.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "客户",
+      "name": "创建客户会员身份信息",
+      "docToken": "Jdo6wLNmyiJHjakK6xIc1D02nvf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Jdo6wLNmyiJHjakK6xIc1D02nvf",
+      "updatedAt": "2026-01-21T05:43:58.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "客户",
+      "name": "根据【3位或3位以上】手机号or会员卡号获取顾客信息",
+      "docToken": "Zy11wpIGAi8WvAkUdjzceBfCnme",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Zy11wpIGAi8WvAkUdjzceBfCnme",
+      "updatedAt": "2026-01-21T05:48:11.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "客户",
+      "name": "根据手机号批量查询客户信息",
+      "docToken": "EnllwWnsJiGWuZkScwocnIdlntb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EnllwWnsJiGWuZkScwocnIdlntb",
+      "updatedAt": "2026-01-21T05:50:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "客户",
+      "name": "根据yz_open_id批量查询客户信息",
+      "docToken": "PCspwXyOsiwTf5k1KyrcSnXOn6e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PCspwXyOsiwTf5k1KyrcSnXOn6e",
+      "updatedAt": "2026-01-21T05:52:34.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "客户",
+      "name": "更新客户",
+      "docToken": "Or5DwXWQTipTYOk7UWxcctq3nbe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Or5DwXWQTipTYOk7UWxcctq3nbe",
+      "updatedAt": "2026-01-21T07:07:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "客户",
+      "name": "获取店铺的办理会员页面链接",
+      "docToken": "OyyPwCB02ieWn3kGeEAcJKrpntc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OyyPwCB02ieWn3kGeEAcJKrpntc",
+      "updatedAt": "2026-01-21T06:44:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "客户",
+      "name": "解密会员码",
+      "docToken": "Za93wKwhaiJ2TMkZ2TMcT05anxg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Za93wKwhaiJ2TMkZ2TMcT05anxg",
+      "updatedAt": "2026-01-21T06:49:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "客户",
+      "name": "生成会员码",
+      "docToken": "MLvOwNVKli3wVpkJY8ycmDmXnwe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MLvOwNVKli3wVpkJY8ycmDmXnwe",
+      "updatedAt": "2026-01-21T06:56:33.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "客户",
+      "name": "搜索客户",
+      "docToken": "Leykw6BCyirJc9kOLDDcPCIFnTc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Leykw6BCyirJc9kOLDDcPCIFnTc",
+      "updatedAt": "2026-01-21T05:54:44.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "库存管理",
+      "name": "编辑商品库存",
+      "docToken": "OV0xw260NiWMNmkRtmMcMItFn0g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OV0xw260NiWMNmkRtmMcMItFn0g",
+      "updatedAt": "2026-01-21T04:49:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "类目",
+      "name": "查询商品类目详情",
+      "docToken": "MfrTwZMqZiCEE9kUpUocgTqNn9X",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MfrTwZMqZiCEE9kUpUocgTqNn9X",
+      "updatedAt": "2026-01-21T03:29:15.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "类目",
+      "name": "查询商品类目子类目",
+      "docToken": "GgBawJWo1iCB2okZgWFc60mtnqg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GgBawJWo1iCB2okZgWFc60mtnqg",
+      "updatedAt": "2026-01-21T03:24:14.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "礼品卡",
+      "name": "礼品卡兑换",
+      "docToken": "MG4MwOZUBi6w7RktmcacgvpZnee",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MG4MwOZUBi6w7RktmcacgvpZnee",
+      "updatedAt": "2026-01-25T12:35:00.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "礼品卡",
+      "name": "礼品卡发卡接口",
+      "docToken": "GczpwJLINiQTL3kwl18cUmgpn2c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GczpwJLINiQTL3kwl18cUmgpn2c",
+      "updatedAt": "2026-01-25T11:49:31.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "礼品卡",
+      "name": "礼品卡激活接口",
+      "docToken": "VuO6wu2vHijZDQkF9hQcQuccngd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VuO6wu2vHijZDQkF9hQcQuccngd",
+      "updatedAt": "2026-01-25T12:21:51.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "礼品卡",
+      "name": "礼品卡制未激活的卡",
+      "docToken": "FbRXwis5ViOW2UkZazWce3uanyh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FbRXwis5ViOW2UkZazWce3uanyh",
+      "updatedAt": "2026-01-25T12:11:08.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "礼品卡",
+      "name": "通过礼品卡卡号查询关联权益卡卡号",
+      "docToken": "JLodw0dz1iwHzvkhW4FcwG5Lnyg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JLodw0dz1iwHzvkhW4FcwG5Lnyg",
+      "updatedAt": "2026-07-16T11:04:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "品牌",
+      "name": "编辑商品品牌",
+      "docToken": "B3hNwipZSi3NxAkwCmKc3dXinAe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B3hNwipZSi3NxAkwCmKc3dXinAe",
+      "updatedAt": "2026-01-21T04:04:24.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "品牌",
+      "name": "查询商品品牌详情",
+      "docToken": "ZrD3wYfg4ii6wqkOnIbcfjO3nHc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZrD3wYfg4ii6wqkOnIbcfjO3nHc",
+      "updatedAt": "2026-01-21T04:14:19.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "品牌",
+      "name": "创建商品品牌",
+      "docToken": "K3GxwPzycigMKxkGwjQcez5YnIf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K3GxwPzycigMKxkGwjQcez5YnIf",
+      "updatedAt": "2026-01-21T03:59:35.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "品牌",
+      "name": "删除商品品牌",
+      "docToken": "SMTawefBmixIP3ksEOpciHRCnCd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SMTawefBmixIP3ksEOpciHRCnCd",
+      "updatedAt": "2026-01-21T04:09:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "品牌",
+      "name": "搜索商品品牌",
+      "docToken": "DZSWwAMdkiu2cnk4MMccU7tunUe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DZSWwAMdkiu2cnk4MMccU7tunUe",
+      "updatedAt": "2026-01-21T04:19:25.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权限",
+      "name": "获取菜单",
+      "docToken": "Ii0qwX14QiEHAlk9a8TcfYQMn2e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Ii0qwX14QiEHAlk9a8TcfYQMn2e",
+      "updatedAt": "2026-03-19T13:33:07.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权限",
+      "name": "获取菜单树",
+      "docToken": "QDz2wvd5ViwpvBk7dHbcZyDfn9g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QDz2wvd5ViwpvBk7dHbcZyDfn9g",
+      "updatedAt": "2026-03-19T13:37:19.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权限",
+      "name": "获取角色列表",
+      "docToken": "CHPswfyqMiedcukDxuPct7UEn8c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CHPswfyqMiedcukDxuPct7UEn8c",
+      "updatedAt": "2026-03-19T13:35:08.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权限",
+      "name": "获取角色列表",
+      "docToken": "CDaUwgcNyiAUgIklT4Cc9rmknWb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CDaUwgcNyiAUgIklT4Cc9rmknWb",
+      "updatedAt": "2026-03-19T13:39:33.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权限",
+      "name": "获取权限树",
+      "docToken": "PN9YwtP0hi08ElkEsvhcqh3Unbc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PN9YwtP0hi08ElkEsvhcqh3Unbc",
+      "updatedAt": "2026-03-19T13:41:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权限",
+      "name": "api权限校验",
+      "docToken": "HVIAwLGosiwqaVkMJ4Ocf4TNnmb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HVIAwLGosiwqaVkMJ4Ocf4TNnmb",
+      "updatedAt": "2026-03-19T13:43:51.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "查询付费权益卡商品id",
+      "docToken": "JOdpwCnvCiq1SxkbmtEctAbdnOc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JOdpwCnvCiq1SxkbmtEctAbdnOc",
+      "updatedAt": "2026-01-23T10:21:10.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "创建权益卡",
+      "docToken": "QSg0wt0hHiUbHXktar2cL5mYnTc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QSg0wt0hHiUbHXktar2cL5mYnTc",
+      "updatedAt": "2026-01-23T10:12:21.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "权益卡",
+      "name": "给客户发放权益卡",
+      "docToken": "DlnwweNgti8mLRkW7IAcOuwHnBf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DlnwweNgti8mLRkW7IAcOuwHnBf",
+      "updatedAt": "2026-01-23T10:29:53.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "权益卡",
+      "name": "更新权益卡",
+      "docToken": "Qj4TwJXCniIB2akX6X7cxY0Rnqb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Qj4TwJXCniIB2akX6X7cxY0Rnqb",
+      "updatedAt": "2026-01-23T10:14:37.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "权益卡",
+      "name": "获取客户购卡记录",
+      "docToken": "UEpow79friejU6kgDB9c4mHgn7c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UEpow79friejU6kgDB9c4mHgn7c",
+      "updatedAt": "2026-01-23T10:34:01.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "获取客户领取的权益卡列表",
+      "docToken": "Y3nmwBHtkimOmnkmXs5cPtH1nPd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Y3nmwBHtkimOmnkmXs5cPtH1nPd",
+      "updatedAt": "2026-01-23T10:23:18.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "获取权益卡列表",
+      "docToken": "PRLWwSoUkitMS9kPRU6ccU7gntd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PRLWwSoUkitMS9kPRU6ccU7gntd",
+      "updatedAt": "2026-01-23T10:08:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "获取权益卡详情",
+      "docToken": "LkWuwd2h1iPJVDkMn0ec2YxqnMd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LkWuwd2h1iPJVDkMn0ec2YxqnMd",
+      "updatedAt": "2026-01-23T10:10:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "获取权益卡已领的客户列表",
+      "docToken": "ZHXDwhdh7iqZsekg7lacrdt9nGd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZHXDwhdh7iqZsekg7lacrdt9nGd",
+      "updatedAt": "2026-01-23T10:25:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "获取商家权益列表",
+      "docToken": "RXTTw0t22iuEQtkshSbcvl89nxg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RXTTw0t22iuEQtkshSbcvl89nxg",
+      "updatedAt": "2026-01-23T10:36:17.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "权益卡",
+      "name": "禁用权益卡",
+      "docToken": "Usm5wV6OBiU8lQkjZpUcDYA1neg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Usm5wV6OBiU8lQkjZpUcDYA1neg",
+      "updatedAt": "2026-01-23T10:18:57.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "权益卡",
+      "name": "删除客户的权益卡",
+      "docToken": "UK5Sw0LR6ip4Afk7cqLck2ONn1f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UK5Sw0LR6ip4Afk7cqLck2ONn1f",
+      "updatedAt": "2026-01-23T10:31:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "权益卡",
+      "name": "删除权益卡",
+      "docToken": "CqIPwIMHiiaiCukjQNGcRO04nFd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CqIPwIMHiiaiCukjQNGcRO04nFd",
+      "updatedAt": "2026-01-23T10:16:45.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "权益卡",
+      "name": "通过权益卡号获取会员信息",
+      "docToken": "DHcpwMlByiIvNSkLIPxcpvvtnfc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DHcpwMlByiIvNSkLIPxcpvvtnfc",
+      "updatedAt": "2026-01-23T10:27:36.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "扫码收款",
+      "name": "查询收款二维码记录",
+      "docToken": "ClrnwM1YoijTLnkbtU8cF6XbnYf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ClrnwM1YoijTLnkbtU8cF6XbnYf",
+      "updatedAt": "2026-01-25T04:15:15.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "扫码收款",
+      "name": "查询收款二维码生成记录",
+      "docToken": "O2XgwDWnTibs1Rk0OYMcpLTxnqf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/O2XgwDWnTibs1Rk0OYMcpLTxnqf",
+      "updatedAt": "2026-01-25T04:17:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "扫码收款",
+      "name": "删除收款二维码",
+      "docToken": "NfyVwft7Bi7xbNkotHpc5jEInsm",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NfyVwft7Bi7xbNkotHpc5jEInsm",
+      "updatedAt": "2026-01-25T04:19:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "编辑商品",
+      "docToken": "Sp5ewj9cfinIjSk6bkLcBP9ZnVh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Sp5ewj9cfinIjSk6bkLcBP9ZnVh",
+      "updatedAt": "2026-06-01T09:39:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "编辑商品关联分组",
+      "docToken": "E4zjwg6OgiTxjUkDu30cH4z5niZ",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/E4zjwg6OgiTxjUkDu30cH4z5niZ",
+      "updatedAt": "2026-01-21T01:48:53.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "编辑商品价格",
+      "docToken": "HWZTwdVNJiEvWGkgfyNcNNYAnIh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HWZTwdVNJiEvWGkgfyNcNNYAnIh",
+      "updatedAt": "2026-01-21T01:43:53.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "查询连锁场景下分店商品上下架状态列表",
+      "docToken": "BdsvwH5sbisme3kcekwcY1xin8g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BdsvwH5sbisme3kcekwcY1xin8g",
+      "updatedAt": "2026-01-24T23:00:44.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "商品",
+      "name": "查询商品关联分组",
+      "docToken": "HGAlwFXqeidftokhZi6c4wkGn1g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HGAlwFXqeidftokhZi6c4wkGn1g",
+      "updatedAt": "2026-01-21T02:26:17.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "查询商品关联类目",
+      "docToken": "IHuuwk3RkiOvR4kSbCacJHQlnff",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IHuuwk3RkiOvR4kSbCacJHQlnff",
+      "updatedAt": "2026-01-21T02:30:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "查询商品关联属性",
+      "docToken": "WstbwKQNViP4yUkInKEcPVepntg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WstbwKQNViP4yUkInKEcPVepntg",
+      "updatedAt": "2026-01-21T02:28:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "查询商品基础信息",
+      "docToken": "GY9NwQDWCiI7DrkPYbOcyYwWnXe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GY9NwQDWCiI7DrkPYbOcyYwWnXe",
+      "updatedAt": "2026-06-11T09:13:04.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "查询商品图文详情",
+      "docToken": "HSbZwHH2Eih5DxkUXclcbGtCntf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HSbZwHH2Eih5DxkUXclcbGtCntf",
+      "updatedAt": "2026-01-21T02:32:49.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "查询商品详情",
+      "docToken": "Y5PAw1Tgji2ftjkRxsTcAOVvnvg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Y5PAw1Tgji2ftjkRxsTcAOVvnvg",
+      "updatedAt": "2026-06-11T09:16:08.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "创建商品",
+      "docToken": "CXlIwVA8tiyf6SkVTYIcJdRpn4d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CXlIwVA8tiyf6SkVTYIcJdRpn4d",
+      "updatedAt": "2026-06-01T09:41:13.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "发布商品渠道",
+      "docToken": "SiADwQdXgiq4tTkJXeXcFAfdnNe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SiADwQdXgiq4tTkJXeXcFAfdnNe",
+      "updatedAt": "2026-03-11T02:04:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "批量查询商品列表",
+      "docToken": "JRAWwM0wZiLTgCkUnUUcWSPYn8c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JRAWwM0wZiLTgCkUnUUcWSPYn8c",
+      "updatedAt": "2026-06-22T07:24:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品",
+      "name": "删除商品",
+      "docToken": "X359wmZVWi8Citkuh1dcx0MpnXe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/X359wmZVWi8Citkuh1dcx0MpnXe",
+      "updatedAt": "2026-01-21T01:33:53.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "删除商品渠道",
+      "docToken": "QpQHwPu34iHp5gk5fI2coWRGnAe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QpQHwPu34iHp5gk5fI2coWRGnAe",
+      "updatedAt": "2026-01-21T01:58:57.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品",
+      "name": "上下架商品",
+      "docToken": "LSDgwFYlJikj88kXQAqcoO3ynue",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LSDgwFYlJikj88kXQAqcoO3ynue",
+      "updatedAt": "2026-01-21T01:54:07.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品评价",
+      "name": "查询好中差评统计数量",
+      "docToken": "TcQpwu0URilmpOkw5y4cXemxnMW",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TcQpwu0URilmpOkw5y4cXemxnMW",
+      "updatedAt": "2026-04-03T03:43:36.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品评价",
+      "name": "查询评价详情",
+      "docToken": "ILcrwiqh8iWEH8k3HDrcEt3an3b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ILcrwiqh8iWEH8k3HDrcEt3an3b",
+      "updatedAt": "2026-04-03T03:40:08.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品评价",
+      "name": "查询商品评价和回复列表",
+      "docToken": "Qr6uw8A6EicENzk4LkpcmGLAn2c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Qr6uw8A6EicENzk4LkpcmGLAn2c",
+      "updatedAt": "2026-04-03T03:37:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "商品评价",
+      "name": "商家回复评价",
+      "docToken": "O64xw7AT3i5Zh8kRJb6cZdXTnKE",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/O64xw7AT3i5Zh8kRJb6cZdXTnKE",
+      "updatedAt": "2026-04-03T03:45:36.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "商品评价",
+      "name": "商家取消评价加精",
+      "docToken": "Bxerwk1xUi4UHyk7ShfccuzVn3f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Bxerwk1xUi4UHyk7ShfccuzVn3f",
+      "updatedAt": "2026-04-03T03:51:00.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "商品评价",
+      "name": "商家设置评价加精",
+      "docToken": "CV0ZwtKoAiFssbkGpjUcc9Ujnxf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CV0ZwtKoAiFssbkGpjUcc9Ujnxf",
+      "updatedAt": "2026-04-03T03:47:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "售后退款",
+      "name": "查看退款凭证列表接口",
+      "docToken": "WTgOwOIZEi3SC7kGNpDcHSNUn5e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WTgOwOIZEi3SC7kGNpDcHSNUn5e",
+      "updatedAt": "2026-01-23T03:42:10.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "售后退款",
+      "name": "查询订单售后金额详情",
+      "docToken": "SkcWw9L0aiyG6ckqRCmc5NDRnrh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SkcWw9L0aiyG6ckqRCmc5NDRnrh",
+      "updatedAt": "2026-02-03T08:57:49.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "售后退款",
+      "name": "查询连锁售后单列表",
+      "docToken": "Fj1hwNXCRidfLDkUXaBcPkTtnEe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Fj1hwNXCRidfLDkUXaBcPkTtnEe",
+      "updatedAt": "2026-03-31T03:35:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "售后退款",
+      "name": "查询零售单店售后单详情",
+      "docToken": "Q3TUwqxMqiBzzYkGcU7cNNt6nXf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Q3TUwqxMqiBzzYkGcU7cNNt6nXf",
+      "updatedAt": "2026-03-31T03:33:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "售后退款",
+      "name": "查询售后单列表",
+      "docToken": "EOh9wdCmCiZRN7ki3lMcCoKXnQg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EOh9wdCmCiZRN7ki3lMcCoKXnQg",
+      "updatedAt": "2026-01-23T03:39:56.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "售后退款",
+      "name": "查询售后单详情",
+      "docToken": "AwIkw2zyVijLg6kLqPacTP9Bncc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AwIkw2zyVijLg6kLqPacTP9Bncc",
+      "updatedAt": "2026-04-28T09:44:46.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "售后退款",
+      "name": "买家撤销退款申请",
+      "docToken": "DSwUwkH8vi9Yscku18Ac2RnknBe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DSwUwkH8vi9Yscku18Ac2RnknBe",
+      "updatedAt": "2026-03-31T03:26:47.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "售后退款",
+      "name": "买家换货确认收货",
+      "docToken": "XCVLwpsUGirzeOkQvp5cJRJGnrh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XCVLwpsUGirzeOkQvp5cJRJGnrh",
+      "updatedAt": "2026-01-25T09:40:17.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "售后退款",
+      "name": "买家申请多商品退款",
+      "docToken": "JiS7wzNbGizkZYkqYNLc6V18nld",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JiS7wzNbGizkZYkqYNLc6V18nld",
+      "updatedAt": "2026-04-24T06:13:53.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "售后退款",
+      "name": "买家申请退款",
+      "docToken": "Ml2mwGeGMiOoEGkI61TcIc38nEe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Ml2mwGeGMiOoEGkI61TcIc38nEe",
+      "updatedAt": "2026-03-31T03:20:17.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "售后退款",
+      "name": "商家审核售后单",
+      "docToken": "N3W2waqxsiLtw9kqzsLc5Ql0nig",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/N3W2waqxsiLtw9kqzsLc5Ql0nig",
+      "updatedAt": "2026-01-25T09:38:12.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "售后退款",
+      "name": "商家主动退款",
+      "docToken": "GwyKwRG3kiox0lkuFMDcKBsSnw1",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GwyKwRG3kiox0lkuFMDcKBsSnw1",
+      "updatedAt": "2026-03-31T03:28:58.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "属性",
+      "name": "编辑商品属性",
+      "docToken": "UT5rwRZbri4E6HkLnOQcIkOCnnb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UT5rwRZbri4E6HkLnOQcIkOCnnb",
+      "updatedAt": "2026-07-29T06:42:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "属性",
+      "name": "创建商品属性",
+      "docToken": "TmRAw0kpYiunXvkZYrJcWfNhnhd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TmRAw0kpYiunXvkZYrJcWfNhnhd",
+      "updatedAt": "2026-01-21T04:24:31.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "属性",
+      "name": "启禁用商品属性值",
+      "docToken": "PZYLwpFFeiS512klOZPc8NNPnof",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PZYLwpFFeiS512klOZPc8NNPnof",
+      "updatedAt": "2026-01-21T04:39:25.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "属性",
+      "name": "删除商品属性",
+      "docToken": "WZMwwmTrsi1EsHkA3micleZgnxe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WZMwwmTrsi1EsHkA3micleZgnxe",
+      "updatedAt": "2026-01-21T04:34:28.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "属性",
+      "name": "搜索商品属性",
+      "docToken": "QxlGwpJTOi2g1ukUZJAcBBLpnle",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QxlGwpJTOi2g1ukUZJAcBBLpnle",
+      "updatedAt": "2026-01-21T04:44:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "数据统计",
+      "name": "查询该店铺下某个卡模板的售卡销量统计数据",
+      "docToken": "G66twuMt4iZwSokjDw4cgwYanNh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G66twuMt4iZwSokjDw4cgwYanNh",
+      "updatedAt": "2026-01-25T11:36:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "数据统计",
+      "name": "查询礼品卡汇总数据",
+      "docToken": "X0VTwkz5bidfKFkqLTacGJULn2f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/X0VTwkz5bidfKFkqLTacGJULn2f",
+      "updatedAt": "2026-01-25T11:34:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "提货卡",
+      "name": "分页查询店铺下用户的提货卡列表",
+      "docToken": "R2c1wh8OriTKSGkq9W1cSoexnEq",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/R2c1wh8OriTKSGkq9W1cSoexnEq",
+      "updatedAt": "2026-01-25T12:43:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "提货卡",
+      "name": "提货卡核销",
+      "docToken": "ESALww3gwiK1g1ksKLpcFCRwnqg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ESALww3gwiK1g1ksKLpcFCRwnqg",
+      "updatedAt": "2025-12-26T13:13:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "提货卡",
+      "name": "提货卡核销结果查询",
+      "docToken": "ITb7wKwFki2gbEkEy1UcsQlRnFh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ITb7wKwFki2gbEkEy1UcsQlRnFh",
+      "updatedAt": "2026-01-25T12:02:28.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "同城配送",
+      "name": "查询可呼叫配送公司列表",
+      "docToken": "C2XbwfrZQi1KySkghSIcEp43nfb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/C2XbwfrZQi1KySkghSIcEp43nfb",
+      "updatedAt": "2026-01-24T15:14:43.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "同城配送",
+      "name": "查询同城配送取消原因列表",
+      "docToken": "U4oIwGsUOi6Pi4kKE8Gcaqecn4d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/U4oIwGsUOi6Pi4kKE8Gcaqecn4d",
+      "updatedAt": "2026-01-24T15:07:10.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "同城配送",
+      "name": "呼叫同城三方配送",
+      "docToken": "YKesweXRRikgKWkwVDtczLTXnud",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YKesweXRRikgKWkwVDtczLTXnud",
+      "updatedAt": "2026-01-24T14:58:21.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "同城配送",
+      "name": "取消同城三方配送",
+      "docToken": "MLdpwTZLLiyIEqkKgDvcVagenob",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MLdpwTZLLiyIEqkKgDvcVagenob",
+      "updatedAt": "2026-01-24T15:00:39.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "同城配送",
+      "name": "设置同城配送多区域与定时达",
+      "docToken": "BnVcwXIHaiwas6k47nscFjKfnph",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BnVcwXIHaiwas6k47nscFjKfnph",
+      "updatedAt": "2026-01-24T15:16:55.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "同城配送",
+      "name": "添加小费",
+      "docToken": "HaBZwBlgxifP1xkCnx4c4XgOn8s",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HaBZwBlgxifP1xkCnx4c4XgOn8s",
+      "updatedAt": "2026-01-24T15:02:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "同城配送",
+      "name": "同步商家自有同城配送状态",
+      "docToken": "KAyzwnDTgi1CKdkIbNRcXiH8nPf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KAyzwnDTgi1CKdkIbNRcXiH8nPf",
+      "updatedAt": "2026-01-24T15:10:27.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "同城配送",
+      "name": "同步同城配送订单状态",
+      "docToken": "VPv4w0E5YiQNV7k6ORgcwVB4nef",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VPv4w0E5YiQNV7k6ORgcwVB4nef",
+      "updatedAt": "2026-01-24T15:09:21.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "同城配送",
+      "name": "同城配送订单重新发货",
+      "docToken": "E1zHwpMLBius1ekhxD3cunJ8nsc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/E1zHwpMLBius1ekhxD3cunJ8nsc",
+      "updatedAt": "2026-01-24T15:05:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "按视频素材id查询【店铺/合作方维度素材库】视频列表【大客专用】",
+      "docToken": "K0DAwA8txiSmdMknap6cTa6nn6e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K0DAwA8txiSmdMknap6cTa6nn6e",
+      "updatedAt": "2026-03-30T03:07:13.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "按图片素材id列表查询图片列表",
+      "docToken": "IaBuwIOOZicgrVkcReXctVxznjg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IaBuwIOOZicgrVkcReXctVxznjg",
+      "updatedAt": "2026-03-30T03:20:28.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "保存开屏广告",
+      "docToken": "WYJsw87BmivQOdkIlZqclDTwn0e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WYJsw87BmivQOdkIlZqclDTwn0e",
+      "updatedAt": "2026-05-28T09:47:51.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "笔记内容导入",
+      "docToken": "P0Xqw9EfQiC2ezkF2KhcRAORnPd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/P0Xqw9EfQiC2ezkF2KhcRAORnPd",
+      "updatedAt": "2026-03-27T04:16:20.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "编辑素材中心视频信息",
+      "docToken": "WhL7w9sCkiQBWYkJMW1cF1fEn8g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WhL7w9sCkiQBWYkJMW1cF1fEn8g",
+      "updatedAt": "2026-03-30T03:24:48.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询 “联系我” 详情",
+      "docToken": "W9HKwxix5iVTPokDiTEclM33njd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/W9HKwxix5iVTPokDiTEclM33njd",
+      "updatedAt": "2026-01-25T10:25:39.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询按商品分配客服规则列表",
+      "docToken": "HTGuwyMKWicFi1kRKZicRIKonVg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HTGuwyMKWicFi1kRKZicRIKonVg",
+      "updatedAt": "2026-03-30T04:20:32.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询弹窗广告",
+      "docToken": "TCNjwm3zeiakR3k1WUqc9AB2ngc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TCNjwm3zeiakR3k1WUqc9AB2ngc",
+      "updatedAt": "2026-05-28T09:38:54.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询店铺下所有笔记的标签去重列表",
+      "docToken": "VXpFwoYzbiQd8ZkSr2ocOjVbnpg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VXpFwoYzbiQd8ZkSr2ocOjVbnpg",
+      "updatedAt": "2026-03-27T04:31:29.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询多客服托管配置是否开启",
+      "docToken": "HAYjww5bDiB3BvkPVV3coWNQn6b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HAYjww5bDiB3BvkPVV3coWNQn6b",
+      "updatedAt": "2026-03-27T03:49:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询活码详情 只支持个人活码、群活码、去重活码",
+      "docToken": "LQ3Qwiw1Eitp9TkB487cT5u7nOb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LQ3Qwiw1Eitp9TkB487cT5u7nOb",
+      "updatedAt": "2026-03-24T08:18:02.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询开屏广告",
+      "docToken": "ItwdwSXiwiJeQVk2CgVci0OPnag",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ItwdwSXiwiJeQVk2CgVci0OPnag",
+      "updatedAt": "2026-05-28T09:52:17.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询客服列表",
+      "docToken": "YZzTwsWa0ipEGDkAlchcvmXendg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YZzTwsWa0ipEGDkAlchcvmXendg",
+      "updatedAt": "2026-03-30T04:24:57.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询客户关系",
+      "docToken": "TyU1w4QctiWAPQkVTbjcPMvPn2b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TyU1w4QctiWAPQkVTbjcPMvPn2b",
+      "updatedAt": "2026-01-25T09:48:53.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询企助客户-员工关系",
+      "docToken": "KGTAwFGaHicUqVkFdEPcUnJDntA",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KGTAwFGaHicUqVkFdEPcUnJDntA",
+      "updatedAt": "2026-04-07T07:32:44.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询素材中心分组下所有已删除的图片列表",
+      "docToken": "LJ6lwOeaDiqS4NkIVmxcnc53nsh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LJ6lwOeaDiqS4NkIVmxcnc53nsh",
+      "updatedAt": "2026-03-30T02:35:14.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询素材中心素材分组数据",
+      "docToken": "I8GYwghYsiWsCRkgTnVc9pQwnjb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/I8GYwghYsiWsCRkgTnVc9pQwnjb",
+      "updatedAt": "2026-03-30T02:44:00.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询素材中心素材分组数据，包含parentId",
+      "docToken": "Tqudw0pGdiSMQCkF5w2cUe8Fnxd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Tqudw0pGdiSMQCkF5w2cUe8Fnxd",
+      "updatedAt": "2026-03-27T04:46:43.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询托管会话列表",
+      "docToken": "CJ2WwAA3tiBO99kPuXEcj89ZnGe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CJ2WwAA3tiBO99kPuXEcj89ZnGe",
+      "updatedAt": "2026-03-27T03:54:04.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询小程序订阅消息模板",
+      "docToken": "SFdqwDl67i9pPEkYbFIc3QTLnge",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SFdqwDl67i9pPEkYbFIc3QTLnge",
+      "updatedAt": "2026-01-24T19:44:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询小程序订阅消息模板列表",
+      "docToken": "JqHWwqE8Pi3BPwkugbCcu38ynFg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JqHWwqE8Pi3BPwkugbCcu38ynFg",
+      "updatedAt": "2026-01-24T19:33:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询小程序主页详情",
+      "docToken": "XpGxwTkNziuqfCkQSNicdSZ6nxd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XpGxwTkNziuqfCkQSNicdSZ6nxd",
+      "updatedAt": "2026-05-28T10:01:03.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询用户点赞的店铺笔记",
+      "docToken": "FxuEwIlQuiH0Q4kcDJ1cyRz8nGg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FxuEwIlQuiH0Q4kcDJ1cyRz8nGg",
+      "updatedAt": "2026-03-27T04:37:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "查询h5店铺主页详情",
+      "docToken": "KIo1w4iiOisdHRkNMdacSMOZnwG",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KIo1w4iiOisdHRkNMdacSMOZnwG",
+      "updatedAt": "2026-05-28T09:41:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "创建 “联系我”方式",
+      "docToken": "R6eJwxVUmiiAE2kIBNJc6cGbnIg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/R6eJwxVUmiiAE2kIBNJc6cGbnIg",
+      "updatedAt": "2026-01-25T10:23:28.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "创建【店铺/合作方维度素材库】视频【大客专用】",
+      "docToken": "FYv2wDEOdiH9D3kWPFmcZmkQn7f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FYv2wDEOdiH9D3kWPFmcZmkQn7f",
+      "updatedAt": "2026-03-30T03:09:27.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "创建按商品分配客服规则",
+      "docToken": "QGp1wRaT3iu1Y2kJtZCcTHE9ndb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QGp1wRaT3iu1Y2kJtZCcTHE9ndb",
+      "updatedAt": "2026-03-30T04:22:46.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "创建弹窗广告",
+      "docToken": "BKIVwcMuOiSJhGkGzKpcTF6Jnif",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BKIVwcMuOiSJhGkGzKpcTF6Jnif",
+      "updatedAt": "2026-05-28T09:45:38.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "创建微页面",
+      "docToken": "KidZwgMpIi8UAgkrDdvcMloFnOf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KidZwgMpIi8UAgkrDdvcMloFnOf",
+      "updatedAt": "2026-05-28T10:05:21.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "弹窗广告列表分页查询",
+      "docToken": "Hjrkwl0LsiBv6GkdPFOcCf3Fnpe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Hjrkwl0LsiBv6GkdPFOcCf3Fnpe",
+      "updatedAt": "2026-05-28T09:56:43.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "店铺笔记创建开放接口",
+      "docToken": "U1Y2wfa7Si3PWekJn8UcvZSDnLf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/U1Y2wfa7Si3PWekJn8UcvZSDnLf",
+      "updatedAt": "2026-03-27T04:22:47.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "店铺笔记更新开放接口",
+      "docToken": "G57GwNs9FitUn3kvkSqcdhfVn6b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G57GwNs9FitUn3kvkSqcdhfVn6b",
+      "updatedAt": "2026-03-27T04:35:42.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "店铺素材搜狗分组图片列表获取接口",
+      "docToken": "BwBXwEP21i4trVkx7aMcwOa5nEb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BwBXwEP21i4trVkx7aMcwOa5nEb",
+      "updatedAt": "2026-03-30T03:27:00.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "多客服机器人异步发送消息",
+      "docToken": "YkdzwFKbqiNXe9kRRotcKcVSnKh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YkdzwFKbqiNXe9kRRotcKcVSnKh",
+      "updatedAt": "2026-01-24T22:54:21.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "多客服托管会话消息列表",
+      "docToken": "VAIlwTyPKiLLNdkBOIKce0uHnMc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VAIlwTyPKiLLNdkBOIKce0uHnMc",
+      "updatedAt": "2026-03-27T03:45:15.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "多客服托管消息标记已读",
+      "docToken": "CA7xwoZihiCgoxktITCcKYzFn9P",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CA7xwoZihiCgoxktITCcKYzFn9P",
+      "updatedAt": "2026-03-27T03:42:52.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "多客服托管消息回复",
+      "docToken": "ZtNzwqqcbiaskGk6yOAcKNbNnme",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZtNzwqqcbiaskGk6yOAcKNbNnme",
+      "updatedAt": "2026-03-27T03:47:35.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "发布【店铺/合作方维度素材库】视频【大客专用】",
+      "docToken": "YblswPRVOi3MPEk5bfgccPwHnHU",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YblswPRVOi3MPEk5bfgccPwHnHU",
+      "updatedAt": "2026-03-30T03:13:59.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "发送卡片类型 员工工作提醒消息",
+      "docToken": "M3aFwrvJAiYGVXkIx7UcgmMQnRh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/M3aFwrvJAiYGVXkIx7UcgmMQnRh",
+      "updatedAt": "2026-01-25T10:19:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "发送员工工作提醒消息",
+      "docToken": "TojKwS7zliCAwFkRWsectb4ln6g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TojKwS7zliCAwFkRWsectb4ln6g",
+      "updatedAt": "2026-01-25T10:16:56.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页查询【店铺/合作方维度素材库】视频列表【大客专用】",
+      "docToken": "HvDGwim7EisJr1kVdq2cFN43nBh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HvDGwim7EisJr1kVdq2cFN43nBh",
+      "updatedAt": "2026-03-30T03:02:46.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页查询笔记列表",
+      "docToken": "YFrYweAQrixEkqkm1F9cC3rcnvg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YFrYweAQrixEkqkm1F9cC3rcnvg",
+      "updatedAt": "2026-03-27T04:27:05.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页查询企助员工列表",
+      "docToken": "LBZ0wmPXIiXsMWkILsYcIiHLnWb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LBZ0wmPXIiXsMWkILsYcIiHLnWb",
+      "updatedAt": "2026-01-25T09:42:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页查询微页面分类列表【根据kdtId】",
+      "docToken": "XvhowoFkYiKwDRkXPcDcs4BVn4A",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XvhowoFkYiKwDRkXPcDcs4BVn4A",
+      "updatedAt": "2026-03-27T03:56:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页查询微页面列表",
+      "docToken": "Wl6PwXc8GiHMJ1kDjxQcUvzSnGf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Wl6PwXc8GiHMJ1kDjxQcUvzSnGf",
+      "updatedAt": "2026-03-27T04:05:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页获取微页面列表【kdtId、微页面分类Id】",
+      "docToken": "TEnvwbZcTiI4RtkvHKRcu10vnve",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TEnvwbZcTiI4RtkvHKRcu10vnve",
+      "updatedAt": "2026-03-27T03:58:47.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分页获取微页面自定义模块信息列表",
+      "docToken": "WxrAwZoZ6ifqeYk6F32cRgU3nLe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WxrAwZoZ6ifqeYk6F32cRgU3nLe",
+      "updatedAt": "2026-03-27T04:07:39.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "分组信息查询",
+      "docToken": "Scn1wm9oPiOPrtkF9cbcq5rInCf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Scn1wm9oPiOPrtkF9cbcq5rInCf",
+      "updatedAt": "2026-03-30T02:49:33.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "给客户推送微信模板消息",
+      "docToken": "FvSLwPiL3i0j4tkGrMecYwKtn9g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FvSLwPiL3i0j4tkGrMecYwKtn9g",
+      "updatedAt": "2026-01-24T19:40:06.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "根据店铺ID和自定义模块ID查询微页面前端自定义模块",
+      "docToken": "Gne5wW92Yib3jckVJb3cKxfKnvj",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Gne5wW92Yib3jckVJb3cKxfKnvj",
+      "updatedAt": "2026-03-27T04:03:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "根据企微客户id获取有赞开放用户帐号",
+      "docToken": "Cu8Qw5GuViLHIpk1QMgc45w2nfb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Cu8Qw5GuViLHIpk1QMgc45w2nfb",
+      "updatedAt": "2026-01-25T09:46:46.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "根据kdtId查询微信公众号/微信小程序基础信息",
+      "docToken": "S6buwlAhziMFkRkbW34cWR7en7f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/S6buwlAhziMFkRkbW34cWR7en7f",
+      "updatedAt": "2026-03-30T03:00:27.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "更新按商品分配客服规则",
+      "docToken": "GhmNwDfBqiHmYCkhbuwcIeFCn5g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GhmNwDfBqiHmYCkhbuwcIeFCn5g",
+      "updatedAt": "2026-03-30T04:18:23.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "更新弹窗广告",
+      "docToken": "G3xpw3BjXiEUzIkDtbNcseLUnTb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G3xpw3BjXiEUzIkDtbNcseLUnTb",
+      "updatedAt": "2026-05-28T09:43:27.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "更新多客服机器人配置",
+      "docToken": "PAbWw3TokiOz1bk3w5Lcx19gnc7",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PAbWw3TokiOz1bk3w5Lcx19gnc7",
+      "updatedAt": "2026-01-24T20:06:58.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "更新微页面",
+      "docToken": "JmMZw4UUbiEXgukAnorcR6MenOc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JmMZw4UUbiEXgukAnorcR6MenOc",
+      "updatedAt": "2026-05-28T10:03:15.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "更新微页面,仅限丹尼斯使用.",
+      "docToken": "Oi4bwmdypiO68QkTVuccxUQ8n9b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Oi4bwmdypiO68QkTVuccxUQ8n9b",
+      "updatedAt": "2026-03-27T04:09:45.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取【店铺/合作方维度素材库】视频上传必须的授权令牌【大客专用】",
+      "docToken": "BVvWwOt1ii6C5akuJTxcJT4Engc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BVvWwOt1ii6C5akuJTxcJT4Engc",
+      "updatedAt": "2026-03-30T03:16:08.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取店铺所有的客户群明细",
+      "docToken": "FDXUwqZKdiAfZtkVjOjctrcUnHd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FDXUwqZKdiAfZtkVjOjctrcUnHd",
+      "updatedAt": "2026-01-25T10:10:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取订阅通知模板列表",
+      "docToken": "QOVVwTTzbiG9KMkAUhWcyZE0ndd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QOVVwTTzbiG9KMkAUhWcyZE0ndd",
+      "updatedAt": "2026-01-24T19:48:47.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取多客服机器人配置",
+      "docToken": "KEFVwd1YeihXEwkXz5ZcDvAFnxb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KEFVwd1YeihXEwkXz5ZcDvAFnxb",
+      "updatedAt": "2026-01-24T20:02:46.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取加密后的token信息，提供给有赞云大客使用。",
+      "docToken": "TdLVwNtpqiU7QlkzvGschZTjnQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TdLVwNtpqiU7QlkzvGschZTjnQf",
+      "updatedAt": "2026-03-30T03:11:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取客户关系列表",
+      "docToken": "Epz4wpSwgisBZdk8wfxcWxmknpJ",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Epz4wpSwgisBZdk8wfxcWxmknpJ",
+      "updatedAt": "2026-01-25T09:50:59.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取客户关系流水",
+      "docToken": "SX2kwiMtLiZch0kou7dc20uXnjh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SX2kwiMtLiZch0kou7dc20uXnjh",
+      "updatedAt": "2026-01-25T09:53:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取客户群成员明细",
+      "docToken": "Dd5RwNDLii6mDPkw9zEcr9aUnAc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Dd5RwNDLii6mDPkw9zEcr9aUnAc",
+      "updatedAt": "2026-01-25T10:08:16.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取客户群明细",
+      "docToken": "XvZQwusWOiBp5xk1IbKc1O18n0e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XvZQwusWOiBp5xk1IbKc1O18n0e",
+      "updatedAt": "2026-01-25T10:04:00.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取客户所在群列表明细",
+      "docToken": "GPMow1hhCishdXkdlv3cu0vNn7b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GPMow1hhCishdXkdlv3cu0vNn7b",
+      "updatedAt": "2026-01-25T10:06:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取七牛公开音频上传授权令牌",
+      "docToken": "WAApwEnv8iBS3Nke6Zccs1Rfn4c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WAApwEnv8iBS3Nke6Zccs1Rfn4c",
+      "updatedAt": "2026-03-30T03:22:40.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取企微客户id",
+      "docToken": "CUvEwef7RiWJWyk3rkacSSo2n1p",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CUvEwef7RiWJWyk3rkacSSo2n1p",
+      "updatedAt": "2026-01-25T09:44:34.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取企微助手标签列表",
+      "docToken": "OWgBwvySLi9U9lkqeKtcfcyrnjb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OWgBwvySLi9U9lkqeKtcfcyrnjb",
+      "updatedAt": "2025-11-04T06:58:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取企微助手标签列表",
+      "docToken": "HPOcw4iVmiz6ULk1erDcLt2NnM3",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HPOcw4iVmiz6ULk1erDcLt2NnM3",
+      "updatedAt": "2026-01-25T10:32:00.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取腾讯惠聚配置数据【仅限连接器内部使用】",
+      "docToken": "YmbNwZbi0i4ExNkUfn1c87nWnah",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YmbNwZbi0i4ExNkUfn1c87nWnah",
+      "updatedAt": "2026-03-30T03:05:02.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取通用文件上传授权【大客户定制专用】",
+      "docToken": "G20dwjYGDiedMukq481cQDjHn5c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G20dwjYGDiedMukq481cQDjHn5c",
+      "updatedAt": "2026-03-30T02:23:22.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取通用文件上传授权【大客户定制专用】",
+      "docToken": "KwZcwhzrxih3QukyAXhchhlfnhc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KwZcwhzrxih3QukyAXhchhlfnhc",
+      "updatedAt": "2026-03-30T02:30:58.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "未分类",
+      "name": "获取小程序分享链接",
+      "docToken": "LLqVwEIF1iwtH8khDDzc25GUnEf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LLqVwEIF1iwtH8khDDzc25GUnEf",
+      "updatedAt": "2026-03-27T04:50:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "开放平台上传二进制公开文件",
+      "docToken": "DsI6wOP9iiGtNvkaaNCcM9wnnfg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DsI6wOP9iiGtNvkaaNCcM9wnnfg",
+      "updatedAt": "2026-03-30T03:33:38.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "开启/关闭开屏广告",
+      "docToken": "BbGkwhccXiNEZlk2Liec8BR6n1g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BbGkwhccXiNEZlk2Liec8BR6n1g",
+      "updatedAt": "2026-05-28T09:50:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "批量查询店铺素材中心图片列表",
+      "docToken": "SSBMwusiWiZi9ek0ntnc9w6vnwb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SSBMwusiWiZi9ek0ntnc9w6vnwb",
+      "updatedAt": "2026-03-30T02:53:47.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "企业微信聊天数据同步",
+      "docToken": "K57Dwl3zBieYWckZBrychYmannc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K57Dwl3zBieYWckZBrychYmannc",
+      "updatedAt": "2026-01-24T20:04:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "删除“联系我”方式",
+      "docToken": "PY57wI7NHiNu44kUKFhcIxkrnGb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PY57wI7NHiNu44kUKFhcIxkrnGb",
+      "updatedAt": "2026-01-25T10:29:53.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "删除按商品分配客服规则",
+      "docToken": "KatawXQvdifYOqkH76ycrQJpnde",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KatawXQvdifYOqkH76ycrQJpnde",
+      "updatedAt": "2026-03-30T04:16:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "上传图片接口",
+      "docToken": "GCHJwINPKipm6Qk7HcPcklFZn8d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GCHJwINPKipm6Qk7HcPcklFZn8d",
+      "updatedAt": "2026-04-03T08:57:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "设置微页面主页",
+      "docToken": "BYIuwf5aZieDxtkMzA9cn0dOn5b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BYIuwf5aZieDxtkMzA9cn0dOn5b",
+      "updatedAt": "2026-05-28T09:58:49.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "生成【店铺/合作方维度素材库】视频播放信息【大客专用】",
+      "docToken": "QqnxwTToTiif2ykrn31cLf5Hnba",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QqnxwTToTiif2ykrn31cLf5Hnba",
+      "updatedAt": "2026-03-30T02:58:27.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "生成微信小程序短链接【微信Url Link】",
+      "docToken": "V7eHwIPm1iGFtXkoTZacl0Uaned",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/V7eHwIPm1iGFtXkoTZacl0Uaned",
+      "updatedAt": "2026-03-30T02:28:31.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "生成微信小程序二维码【支持超过32可见字符的自定义参数】",
+      "docToken": "DhQIwLa9EiAPnnkVS9fcoF5gnac",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DhQIwLa9EiAPnnkVS9fcoF5gnac",
+      "updatedAt": "2026-03-30T02:37:32.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "生成微信小程序urlLink的中间链接--有赞短链和长链",
+      "docToken": "MdjGwopVEiQgv4k5OtIcsQ2knIf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MdjGwopVEiQgv4k5OtIcsQ2knIf",
+      "updatedAt": "2026-03-30T02:56:07.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "生成小程序二维码，无个数限制",
+      "docToken": "IpsfwRysGiPRhlkStHucMpTwn5c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IpsfwRysGiPRhlkStHucMpTwn5c",
+      "updatedAt": "2026-03-30T02:42:01.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "失效弹窗广告",
+      "docToken": "HtWewfz3Sig4CZke8DOcwyubnMe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HtWewfz3Sig4CZke8DOcwyubnMe",
+      "updatedAt": "2026-05-28T09:54:23.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "刷新七牛私有链接",
+      "docToken": "An3uw5E3piGJruk0b5kcNGbNnGo",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/An3uw5E3piGJruk0b5kcNGbNnGo",
+      "updatedAt": "2026-03-30T03:31:27.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "素材中心【在自定义分组下】创建分组",
+      "docToken": "NHzuwaH6Tip1dkkXRQ6czZRynuh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NHzuwaH6Tip1dkkXRQ6czZRynuh",
+      "updatedAt": "2026-03-27T04:42:14.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "素材中心图片资源永久批量删除",
+      "docToken": "Z2czwIYPMibzJ3kv8lgccYpunnf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Z2czwIYPMibzJ3kv8lgccYpunnf",
+      "updatedAt": "2026-03-30T03:18:15.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "通过商品分组alias获取商品列表",
+      "docToken": "VjXrwmrE3ip6CFkBNlzcVBE5nsb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VjXrwmrE3ip6CFkBNlzcVBE5nsb",
+      "updatedAt": "2026-03-27T04:48:49.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "通过商品分组id获取商品列表【支持分页，默认分页大小200】",
+      "docToken": "VvhTwfOlxiVPgSkzxI2c35QJntd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VvhTwfOlxiVPgSkzxI2c35QJntd",
+      "updatedAt": "2026-03-30T02:26:29.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "通过商品ids获取商品列表",
+      "docToken": "TDIxwWOOxipe4mkzs6Vc89lCnc1",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TDIxwWOOxipe4mkzs6Vc89lCnc1",
+      "updatedAt": "2026-03-27T04:44:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "图片上传素材中心",
+      "docToken": "FYl1wokTAiAdA9kTMd4cIzo6nLf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FYl1wokTAiAdA9kTMd4cIzo6nLf",
+      "updatedAt": "2026-03-30T02:39:37.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "推送给客户订阅通知",
+      "docToken": "MHtww1XliiOdRDkq4dTcKdCbnvc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MHtww1XliiOdRDkq4dTcKdCbnvc",
+      "updatedAt": "2026-01-24T19:38:03.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "推送关注自动回复消息",
+      "docToken": "R91WwQsESiTMKjkIkV3c3hS3nqc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/R91WwQsESiTMKjkIkV3c3hS3nqc",
+      "updatedAt": "2026-01-24T19:53:01.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "微信文本内容安全识别",
+      "docToken": "YeOLw4DWTiQyuIki2wTcRLzzn1b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YeOLw4DWTiQyuIki2wTcRLzzn1b",
+      "updatedAt": "2026-03-27T04:24:58.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "微信小程序shortlink短链生成",
+      "docToken": "FQ9gwAmv4iqjJDksppqcrriQnOf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FQ9gwAmv4iqjJDksppqcrriQnOf",
+      "updatedAt": "2026-03-27T04:40:09.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "无限制生成小程序二维码",
+      "docToken": "EuqGw2swPiaTg9kjQMRcu5NQn0c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EuqGw2swPiaTg9kjQMRcu5NQn0c",
+      "updatedAt": "2026-03-30T02:33:05.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "小程序订阅消息推送",
+      "docToken": "TTHmwSWiLibobUkAxv1cD0henLJ",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TTHmwSWiLibobUkAxv1cD0henLJ",
+      "updatedAt": "2026-01-24T19:46:41.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "新建统一客户群发任务",
+      "docToken": "FHDJwp8ipiDcHDkopCOc677wnKd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FHDJwp8ipiDcHDkopCOc677wnKd",
+      "updatedAt": "2026-01-25T10:14:45.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "修改“联系我”方式",
+      "docToken": "WLs0wurH9ip6uTkX5hccVZ2bnqg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WLs0wurH9ip6uTkX5hccVZ2bnqg",
+      "updatedAt": "2026-01-25T10:27:48.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "修改多客服托管配置",
+      "docToken": "DEHKw7w5lietn3k6DY7cYCURnXc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/DEHKw7w5lietn3k6DY7cYCURnXc",
+      "updatedAt": "2026-03-27T03:51:36.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "音视频内容安全识别",
+      "docToken": "SEB6wJqFXiKOT6kvwMucIMKonih",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SEB6wJqFXiKOT6kvwMucIMKonih",
+      "updatedAt": "2026-03-27T04:20:36.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "有赞用户风控黑名单【专属接口】",
+      "docToken": "QETmwvW0piwlojkLHjqcyzKRn3g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QETmwvW0piwlojkLHjqcyzKRn3g",
+      "updatedAt": "2026-03-27T04:18:24.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "未分类",
+      "name": "有赞云开放推送微信粉丝消息",
+      "docToken": "IAGYwibRjiNdfIkGR3ZcsEjznzg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IAGYwibRjiNdfIkGR3ZcsEjznzg",
+      "updatedAt": "2026-01-24T19:42:14.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "未分类",
+      "name": "有赞云三方应用图片安全检查",
+      "docToken": "WmhswmjjtiXhkAktF9lcOqWGnRh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WmhswmjjtiXhkAktF9lcOqWGnRh",
+      "updatedAt": "2026-03-27T04:29:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "有赞云三方应用文本安全检查",
+      "docToken": "Ng0mwDLb3iA2MokMUcNcqt9gnab",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Ng0mwDLb3iA2MokMUcNcqt9gnab",
+      "updatedAt": "2026-03-27T04:33:36.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "未分类",
+      "name": "App 桌面提醒推送接口",
+      "docToken": "WX05wbXQniiHQwkkx1NckReDnUb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WX05wbXQniiHQwkkx1NckReDnUb",
+      "updatedAt": "2026-01-24T19:35:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询订单包裹列表",
+      "docToken": "IsOSwbEuWipDBLkoqrLc6Vxvnpf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IsOSwbEuWipDBLkoqrLc6Vxvnpf",
+      "updatedAt": "2026-01-24T14:05:41.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询订单包裹详情",
+      "docToken": "PmVjwtmNViH1g4kEyK6c0qDjnFe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PmVjwtmNViH1g4kEyK6c0qDjnFe",
+      "updatedAt": "2026-01-24T14:03:38.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询发货单",
+      "docToken": "T5pGwK7NGiHQFjkl59HcHjEwnte",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/T5pGwK7NGiHQFjkl59HcHjEwnte",
+      "updatedAt": "2026-01-24T13:59:12.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询快递公司列表",
+      "docToken": "OL0wwoyn9iKAHPkEuXMca9gXnZd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/OL0wwoyn9iKAHPkEuXMca9gXnZd",
+      "updatedAt": "2026-01-23T03:15:05.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询配送单",
+      "docToken": "IGh4wSqYuiQL8SkuLrlcYqF6nPb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IGh4wSqYuiQL8SkuLrlcYqF6nPb",
+      "updatedAt": "2026-01-24T14:01:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询区域地名列表",
+      "docToken": "MXF2wkwrCijTwrkuSARcpS4Cn5b",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MXF2wkwrCijTwrkuSARcpS4Cn5b",
+      "updatedAt": "2026-01-23T03:17:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询同城定时达信息",
+      "docToken": "SijWw4IKhilxEMk0TCLccmiEnwB",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SijWw4IKhilxEMk0TCLccmiEnwB",
+      "updatedAt": "2026-01-24T15:12:33.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询物流轨迹信息",
+      "docToken": "SXTiwz6oJiLW38kMkHWcdAwsnec",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SXTiwz6oJiLW38kMkHWcdAwsnec",
+      "updatedAt": "2026-01-23T03:08:30.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询周期购订单发货记录",
+      "docToken": "A3rrwVooDia2cWkuaduchgoXnSd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/A3rrwVooDia2cWkuaduchgoXnSd",
+      "updatedAt": "2026-01-24T14:10:06.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "物流发货",
+      "name": "查询周期购订单最新一期发货记录",
+      "docToken": "Wm5zwhStIid93kkUmsTcG1hDnnd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Wm5zwhStIid93kkUmsTcG1hDnnd",
+      "updatedAt": "2026-01-24T14:12:19.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "物流发货",
+      "name": "单商品拆分多运单部分发货",
+      "docToken": "HNthwiXOxiIPuDk6iPwcO4fCnef",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HNthwiXOxiIPuDk6iPwcO4fCnef",
+      "updatedAt": "2025-12-25T02:47:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "单商品拆分多运单全部发货",
+      "docToken": "Xoa0wJ9xDiDYdqkQUBvccTJenzb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Xoa0wJ9xDiDYdqkQUBvccTJenzb",
+      "updatedAt": "2026-01-23T03:02:01.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "订单部分发货",
+      "docToken": "MszMwHvKMikxXjkdyWZcmMx2nfc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MszMwHvKMikxXjkdyWZcmMx2nfc",
+      "updatedAt": "2026-03-10T06:24:38.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "订单发货",
+      "docToken": "Wk11w5ppPiNP3BkVhG7cVLofnfh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Wk11w5ppPiNP3BkVhG7cVLofnfh",
+      "updatedAt": "2026-01-21T05:19:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "卖家标记签收",
+      "docToken": "GAG9wZLylitxR3kKRDtcrh2xn3e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GAG9wZLylitxR3kKRDtcrh2xn3e",
+      "updatedAt": "2026-01-24T13:57:07.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "物流发货",
+      "name": "设置配送方式",
+      "docToken": "PEwuwXg7xiKlCSkSrBOcGahHnAd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PEwuwXg7xiKlCSkSrBOcGahHnAd",
+      "updatedAt": "2026-01-24T15:19:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "修改订单物流",
+      "docToken": "PPdcwhFwvia0YZkwV1IcpMAsnNc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PPdcwhFwvia0YZkwV1IcpMAsnNc",
+      "updatedAt": "2026-01-23T03:04:12.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "修改配送计划",
+      "docToken": "GXUwwUxcViit4MkJe5lcGNfcn5e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GXUwwUxcViit4MkJe5lcGNfcn5e",
+      "updatedAt": "2026-01-25T04:21:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "延长订单自动确认收货时间",
+      "docToken": "ASVdw3KKliFQv4kcFymcs9SGnQc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ASVdw3KKliFQv4kcFymcs9SGnQc",
+      "updatedAt": "2026-01-23T03:06:20.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "物流发货",
+      "name": "周期购订单多期发货",
+      "docToken": "JJgrwOUahiw74xkC652cIMFUnHd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JJgrwOUahiw74xkC652cIMFUnHd",
+      "updatedAt": "2026-04-02T12:19:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "下单支付",
+      "name": "创建单商品结算下单页",
+      "docToken": "MJBXwMHoZiWxbOkToadcKG4Pn4t",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MJBXwMHoZiWxbOkToadcKG4Pn4t",
+      "updatedAt": "2026-01-24T17:54:21.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "下单支付",
+      "name": "创建多商品结算下单页",
+      "docToken": "UXwHwKAMQit5KGkSTnscToVknue",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UXwHwKAMQit5KGkSTnscToVknue",
+      "updatedAt": "2026-01-24T17:52:14.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "下单支付",
+      "name": "创建有赞订单",
+      "docToken": "ZhEowlOwRi3u0ZkgIVOclgCpnJf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZhEowlOwRi3u0ZkgIVOclgCpnJf",
+      "updatedAt": "2026-01-24T17:58:37.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "下单支付",
+      "name": "发送支付回调消息",
+      "docToken": "XvvAwOweEiV5N5keMIycuMlmndk",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XvvAwOweEiV5N5keMIycuMlmndk",
+      "updatedAt": "2026-01-24T18:00:49.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠计算",
+      "name": "查询订单参与营销活动的优惠内容",
+      "docToken": "F9KRwkWQmiNdCXkT4kUcnSA5nEh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/F9KRwkWQmiNdCXkT4kUcnSA5nEh",
+      "updatedAt": "2026-06-15T11:30:05.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠计算",
+      "name": "查询商品参与的活动",
+      "docToken": "SZInwzks4iIYp4koBEjcbQNMn0e",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SZInwzks4iIYp4koBEjcbQNMn0e",
+      "updatedAt": "2026-06-15T11:32:13.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠计算",
+      "name": "创建或更新店铺第三方营销插件的全局规则",
+      "docToken": "PaMPwUfWNiGQKekqZiLclVrtnnc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PaMPwUfWNiGQKekqZiLclVrtnnc",
+      "updatedAt": "2026-06-15T11:38:55.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠计算",
+      "name": "店铺第三方及中台插件全局规则查询接口",
+      "docToken": "TdUcwtLMliGOLDkMvk6cs0IUnzc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TdUcwtLMliGOLDkMvk6cs0IUnzc",
+      "updatedAt": "2026-06-15T11:36:40.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠计算",
+      "name": "获取客户购买商品时参加的所有优惠活动",
+      "docToken": "ZplVwpAiGiCbT8kWXArc3o0vnDe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZplVwpAiGiCbT8kWXArc3o0vnDe",
+      "updatedAt": "2026-07-10T14:50:44.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠计算",
+      "name": "批量查询商品参与活动",
+      "docToken": "Q35XwvQRciC2tDkf50gcUwXNnQh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Q35XwvQRciC2tDkf50gcUwXNnQh",
+      "updatedAt": "2026-06-15T12:03:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "编辑优惠券/码活动",
+      "docToken": "PcDFwGMOOiaJBGkrSgEce7Vinwg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PcDFwGMOOiaJBGkrSgEce7Vinwg",
+      "updatedAt": "2026-01-25T04:08:48.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "创建优惠码活动",
+      "docToken": "VXCJwokwpiWXI8k0EdbcpnQBnbg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VXCJwokwpiWXI8k0EdbcpnQBnbg",
+      "updatedAt": "2026-01-25T02:53:06.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "创建优惠券活动",
+      "docToken": "WwgKwB0NoiLlKUkO0VNc0MaUnyg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WwgKwB0NoiLlKUkO0VNc0MaUnyg",
+      "updatedAt": "2025-11-06T13:04:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "发放优惠凭证",
+      "docToken": "Q5JXwyuR3iONXNkJ9p9cjnnPnxw",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Q5JXwyuR3iONXNkJ9p9cjnnPnxw",
+      "updatedAt": "2026-01-25T04:00:05.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "分页查询活动下优惠码",
+      "docToken": "SBq3wlYo7iA9rqknw8Kc8pqcnph",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SBq3wlYo7iA9rqknw8Kc8pqcnph",
+      "updatedAt": "2026-01-25T03:23:26.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据核销码查询优惠凭证",
+      "docToken": "VE50w2F3uiGLtEkkhezcHpUAnsf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VE50w2F3uiGLtEkkhezcHpUAnsf",
+      "updatedAt": "2026-01-25T03:14:52.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据核销码或者优惠码值核销优惠凭证",
+      "docToken": "LZvhwVHBVilq64kwP9tcSWyJnEh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LZvhwVHBVilq64kwP9tcSWyJnEh",
+      "updatedAt": "2026-01-25T03:34:15.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据活动 id查询优惠券/码活动详情",
+      "docToken": "C1nLwkdxMi8et0konTJc173fnnh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/C1nLwkdxMi8et0konTJc173fnnh",
+      "updatedAt": "2026-01-25T03:12:37.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据码号查询优惠凭证",
+      "docToken": "LP01w9XyeiLac7kdj8Dcracsnbg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LP01w9XyeiLac7kdj8Dcracsnbg",
+      "updatedAt": "2026-01-25T03:16:55.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据凭证 id查询优惠凭证",
+      "docToken": "SYl5wnCadizZaCkfOJ6c7RQgntf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SYl5wnCadizZaCkfOJ6c7RQgntf",
+      "updatedAt": "2026-01-25T04:02:21.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据凭证状态查询活动下凭证",
+      "docToken": "D23DwiXSIiyeOFkUwF6cjLujnfe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/D23DwiXSIiyeOFkUwF6cjLujnfe",
+      "updatedAt": "2026-01-25T03:40:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据凭证状态查询优惠凭证",
+      "docToken": "PB6awTsoQiYIoKkmg4jcGXfonDI",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PB6awTsoQiYIoKkmg4jcGXfonDI",
+      "updatedAt": "2026-01-25T03:27:49.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据三方券活动Id查询内部活动详情",
+      "docToken": "MQ1jwbQSSiXU9Dks5y1c40DZn5d",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MQ1jwbQSSiXU9Dks5y1c40DZn5d",
+      "updatedAt": "2026-01-25T03:06:05.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "根据优惠码的优惠码号兑换优惠凭证",
+      "docToken": "VhwdwVMHfi0a43kOazHcOiq2nRd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VhwdwVMHfi0a43kOazHcOiq2nRd",
+      "updatedAt": "2026-01-25T03:32:06.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "获取买家优惠券凭证基础信息",
+      "docToken": "VryPwHebmiDy4okZUk1czCDWnQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/VryPwHebmiDy4okZUk1czCDWnQf",
+      "updatedAt": "2026-01-25T03:55:48.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "获取下单前用户优惠凭证列表",
+      "docToken": "IJYuwF33ai8mD6kI0YecHuXxnvf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IJYuwF33ai8mD6kI0YecHuXxnvf",
+      "updatedAt": "2026-01-25T03:36:24.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "获取优惠券/优惠码领取记录",
+      "docToken": "CKiHwmpa9ip6FtkqaBUcvhFrnjf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CKiHwmpa9ip6FtkqaBUcvhFrnjf",
+      "updatedAt": "2026-07-21T12:08:45.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "计算买家优惠凭证优惠金额",
+      "docToken": "PPx2wxVebi1Wd6kqYEDcCSBJnjg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PPx2wxVebi1Wd6kqYEDcCSBJnjg",
+      "updatedAt": "2026-07-10T15:36:56.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "三方活动与内部活动绑定",
+      "docToken": "KvZcwFU2yiay3HkbC1EcP4eandc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KvZcwFU2yiay3HkbC1EcP4eandc",
+      "updatedAt": "2026-03-23T07:42:08.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "三方券活动编辑",
+      "docToken": "UwDVwjeuFidFvCkZzPncwQY5n5C",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UwDVwjeuFidFvCkZzPncwQY5n5C",
+      "updatedAt": "2026-01-25T03:04:01.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "三方券活动创建",
+      "docToken": "FTfywdAZKi8x4zkF4WkcUV9OnRe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FTfywdAZKi8x4zkF4WkcUV9OnRe",
+      "updatedAt": "2026-01-25T02:55:19.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "三方券活动删除",
+      "docToken": "N6aJwOJGFi63YGkDNYpcwmWznRg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/N6aJwOJGFi63YGkDNYpcwmWznRg",
+      "updatedAt": "2026-01-25T02:59:38.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "删除优惠券/码活动",
+      "docToken": "ER87wTtSYimJpnkZxnPcGDHFnFe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ER87wTtSYimJpnkZxnPcGDHFnFe",
+      "updatedAt": "2026-01-25T02:48:51.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "商家创建优惠券活动",
+      "docToken": "TFBqwKZzyiLWIlkFMTPc5Fy9nWg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TFBqwKZzyiLWIlkFMTPc5Fy9nWg",
+      "updatedAt": "2026-01-25T02:57:26.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "失效优惠券/码活动",
+      "docToken": "MIXgwhRHii94nVkZQbEc9LuUnFE",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MIXgwhRHii94nVkZQbEc9LuUnFE",
+      "updatedAt": "2026-01-25T02:44:28.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "搜索优惠券/码活动",
+      "docToken": "GQcUwNFzaiL5wckPic5cpIm0nXf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/GQcUwNFzaiL5wckPic5cpIm0nXf",
+      "updatedAt": "2026-01-25T03:08:12.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "退还已核销优惠凭证",
+      "docToken": "UJWWwZDi8i7qkJkig0ccRFRcngg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UJWWwZDi8i7qkJkig0ccRFRcngg",
+      "updatedAt": "2026-01-25T03:19:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "外部券核销回流",
+      "docToken": "LrHhwLAkrigTyykrgB0c7wQwncd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/LrHhwLAkrigTyykrgB0c7wQwncd",
+      "updatedAt": "2026-03-23T07:44:22.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "外部券回流发放",
+      "docToken": "CQ4IwmEpWisUv2kfF0BckBMCn7g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CQ4IwmEpWisUv2kfF0BckBMCn7g",
+      "updatedAt": "2026-01-25T04:06:42.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "外部券回收回流",
+      "docToken": "So3xwwokliPDCvkgXnncYxZlnnb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/So3xwwokliPDCvkgXnncYxZlnnb",
+      "updatedAt": "2026-01-25T03:44:59.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "外部券退券回流",
+      "docToken": "NmnQwWS3fiXipWk7SO6cEstOn9c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/NmnQwWS3fiXipWk7SO6cEstOn9c",
+      "updatedAt": "2026-03-23T07:46:26.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "外部券作废回流",
+      "docToken": "PCkjwhogjiE2SkkjT21cPAqinse",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PCkjwhogjiE2SkkjT21cPAqinse",
+      "updatedAt": "2026-01-25T03:49:19.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "修改用户优惠券凭证的有效日期",
+      "docToken": "ACLmw36SyipCPOkSSgfcQjVEnHb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ACLmw36SyipCPOkSSgfcQjVEnHb",
+      "updatedAt": "2026-05-20T02:57:36.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "修改用户优惠券凭证的有效日期",
+      "docToken": "Io6YwMKTyicnV5krCALcqZSbnuf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Io6YwMKTyicnV5krCALcqZSbnuf",
+      "updatedAt": "2026-05-20T02:59:46.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "异步批量发券三方回调接口",
+      "docToken": "AL7FwdxcpicPDUk0Rd9cgCA8nmg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AL7FwdxcpicPDUk0Rd9cgCA8nmg",
+      "updatedAt": "2026-01-25T03:51:28.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "转赠优惠凭证",
+      "docToken": "HHD7wAXXpi7aYakNEt9c4YBanuf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HHD7wAXXpi7aYakNEt9c4YBanuf",
+      "updatedAt": "2026-01-25T04:11:00.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "作废活动下全部已领取未核销的优惠凭证",
+      "docToken": "BItew0P5WiSQzpkQAY2cB0yNn8c",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BItew0P5WiSQzpkQAY2cB0yNn8c",
+      "updatedAt": "2026-03-23T07:39:55.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "优惠券/码",
+      "name": "作废优惠凭证",
+      "docToken": "RtBPwXDodihkydksMGFcsX5Gnnf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RtBPwXDodihkydksMGFcsX5Gnnf",
+      "updatedAt": "2026-01-25T03:29:54.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "员工",
+      "name": "查询单个员工详情信息",
+      "docToken": "BkK1wgIRBiQf1uk9YcKcmM2lnOh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/BkK1wgIRBiQf1uk9YcKcmM2lnOh",
+      "updatedAt": "2026-01-24T20:39:24.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "员工",
+      "name": "查询同城云网点员工角色",
+      "docToken": "ElNtw0MKviRNw8kvB9TcqlgUnqh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ElNtw0MKviRNw8kvB9TcqlgUnqh",
+      "updatedAt": "2026-01-24T20:41:35.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "员工",
+      "name": "分页查询店铺的员工",
+      "docToken": "K2WYwsKOHiBoQxkmWsscX1ASnrF",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K2WYwsKOHiBoQxkmWsscX1ASnrF",
+      "updatedAt": "2026-01-24T20:37:18.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "员工",
+      "name": "分页查询员工详情信息",
+      "docToken": "XNBAw4IwTipTGAkOWEjcVekRnud",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XNBAw4IwTipTGAkOWEjcVekRnud",
+      "updatedAt": "2026-01-24T20:45:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "员工",
+      "name": "批量查询店铺员工唯一id列表",
+      "docToken": "IRVgwkSpTiyHnWkBqjKc8vSvnEe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IRVgwkSpTiyHnWkBqjKc8vSvnEe",
+      "updatedAt": "2026-01-24T20:50:06.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "员工",
+      "name": "新增员工",
+      "docToken": "Il0FwRi0NiF84AkqIMUcy7cUnfb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Il0FwRi0NiF84AkqIMUcy7cUnfb",
+      "updatedAt": "2026-01-24T20:28:47.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "员工",
+      "name": "员工更新",
+      "docToken": "UJ1ZwSF0YiqNDOkn71ccMG2lnec",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UJ1ZwSF0YiqNDOkn71ccMG2lnec",
+      "updatedAt": "2026-01-24T20:26:36.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "员工",
+      "name": "员工禁用",
+      "docToken": "AcUAwJbali8Psfkd6Wjc5pcentg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AcUAwJbali8Psfkd6Wjc5pcentg",
+      "updatedAt": "2026-01-24T20:33:01.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "员工",
+      "name": "员工启用",
+      "docToken": "MPtbwhmGoiggr9k25MYcYIVZnFe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MPtbwhmGoiggr9k25MYcYIVZnFe",
+      "updatedAt": "2026-01-24T20:35:09.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "员工",
+      "name": "员工删除",
+      "docToken": "Uh0iwGFAaiSWKxkx2gkc1DJAnKd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Uh0iwGFAaiSWKxkx2gkc1DJAnKd",
+      "updatedAt": "2026-01-24T20:30:50.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "云分销 / 渠道商订单",
+      "name": "云分销分佣单列表查询",
+      "docToken": "K5olwFZv6izFMckF5ohct6yvnUf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/K5olwFZv6izFMckF5ohct6yvnUf",
+      "updatedAt": "2026-01-23T02:34:53.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "驳回云分销通用奖励",
+      "docToken": "T9BNw4pDriDB4Dkev7mcLL9Lnmc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/T9BNw4pDriDB4Dkev7mcLL9Lnmc",
+      "updatedAt": "2026-01-24T15:25:39.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "查询渠道商培育业绩",
+      "docToken": "RElHwxcWviSrpAkTnRtc08QWnmg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/RElHwxcWviSrpAkTnRtc08QWnmg",
+      "updatedAt": "2025-06-13T14:14:10.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "查询云分销通用奖励列表",
+      "docToken": "FrvtwJMXZiw9LLk7uuPctCR3nxg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FrvtwJMXZiw9LLk7uuPctCR3nxg",
+      "updatedAt": "2026-01-24T15:21:14.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "创建云分销通用奖励",
+      "docToken": "CdFSw0tdGi0WJDkdBZzc5CAqnsd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CdFSw0tdGi0WJDkdBZzc5CAqnsd",
+      "updatedAt": "2026-01-24T15:29:50.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "发放云分销通用奖励",
+      "docToken": "MTCfwVoqtiKLfVkd342c2CKAnfh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MTCfwVoqtiKLfVkd342c2CKAnfh",
+      "updatedAt": "2026-01-24T15:23:19.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "分页查询渠道商销售奖励列表",
+      "docToken": "B6USwCgaXiVRVQkqG4Rcg04Anyh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/B6USwCgaXiVRVQkqG4Rcg04Anyh",
+      "updatedAt": "2026-01-23T02:38:04.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商激励",
+      "name": "更新云分销通用奖励",
+      "docToken": "QXDOwNcNeiTxLhkxQm6c7yBknBb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/QXDOwNcNeiTxLhkxQm6c7yBknBb",
+      "updatedAt": "2026-01-24T15:27:47.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "查询云分销店铺等级&分红设置",
+      "docToken": "MgTTwHVH2i16fEkrcX1cc1cNn2f",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/MgTTwHVH2i16fEkrcX1cc1cNn2f",
+      "updatedAt": "2026-01-23T02:25:55.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "查询云分销店铺个税设置",
+      "docToken": "HcvfwHpqViWfRvk6Uduc2JZCnoz",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HcvfwHpqViWfRvk6Uduc2JZCnoz",
+      "updatedAt": "2026-01-23T02:30:28.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "分销员绑定的渠道商【代理商/订货商】关系变更记录查询",
+      "docToken": "EX0ZwV5aPiJbJwkbki4cThyxnSe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/EX0ZwV5aPiJbJwkbki4cThyxnSe",
+      "updatedAt": "2026-01-23T02:32:37.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "根据手机号查询渠道商信息",
+      "docToken": "ZA3rw0XeziPBDOk049Fc3V6Knvd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZA3rw0XeziPBDOk049Fc3V6Knvd",
+      "updatedAt": "2026-03-30T03:39:05.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "批量查询云分销渠道商数据统计",
+      "docToken": "JYWrwWYXViCFJqkaLKWcydxDntc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/JYWrwWYXViCFJqkaLKWcydxDntc",
+      "updatedAt": "2026-01-24T22:58:37.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "渠道商创建信息接口",
+      "docToken": "XyrvwXTIriRzh7kUTw8cZh9NnNe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/XyrvwXTIriRzh7kUTw8cZh9NnNe",
+      "updatedAt": "2026-01-24T13:26:52.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "云分销清退渠道商接口",
+      "docToken": "SmLpwj8OHidSy6ks2ZfcQ9dpnLe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SmLpwj8OHidSy6ks2ZfcQ9dpnLe",
+      "updatedAt": "2026-01-24T22:52:10.000Z",
+      "direction": "待确认"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "云分销渠道商等级变更记录分页查询",
+      "docToken": "CIJ8wk6vCiye3dkQVyrc3Jeknoh",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CIJ8wk6vCiye3dkQVyrc3Jeknoh",
+      "updatedAt": "2026-01-23T02:23:59.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "云分销渠道商列表查询",
+      "docToken": "AzEjwpIu0ijb1GkbYlkcAhUdnte",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AzEjwpIu0ijb1GkbYlkcAhUdnte",
+      "updatedAt": "2026-01-23T02:19:42.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "云分销渠道商上下级关系变更记录分页查询接口",
+      "docToken": "PIqNwZiBaiAlgjkv7eicBvodnsb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PIqNwZiBaiAlgjkv7eicBvodnsb",
+      "updatedAt": "2026-01-23T02:21:48.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 渠道商信息管理",
+      "name": "云分销渠道商信息修改",
+      "docToken": "UO3Qwuq9BiLMoxktSOIcCZ4rnYg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/UO3Qwuq9BiLMoxktSOIcCZ4rnYg",
+      "updatedAt": "2026-01-23T02:15:14.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "云分销 / 商品管理",
+      "name": "查询全部商品推广佣金的配置",
+      "docToken": "ErsgwjdP0iOHw2kXQhqcKoeUnlb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ErsgwjdP0iOHw2kXQhqcKoeUnlb",
+      "updatedAt": "2025-06-13T14:19:07.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "云分销 / 商品管理",
+      "name": "查询云分销指定商品推广佣金设置",
+      "docToken": "Xpyjwqd0Ai7vFWkiLOOcBshenEd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Xpyjwqd0Ai7vFWkiLOOcBshenEd",
+      "updatedAt": "2026-01-23T02:40:23.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "运费模板",
+      "name": "查询运费模板列表",
+      "docToken": "AyYdw0O83iV9OLkRbxdcyEiznDc",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AyYdw0O83iV9OLkRbxdcyEiznDc",
+      "updatedAt": "2026-01-21T07:16:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "运费模板",
+      "name": "创建运费模板",
+      "docToken": "CKEJwQwkcizC6CkEYDfcON5Wned",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/CKEJwQwkcizC6CkEYDfcON5Wned",
+      "updatedAt": "2026-01-21T07:09:46.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "运费模板",
+      "name": "更新运费模板",
+      "docToken": "YEl7w6QimiRJphkkFTDcuZTanEU",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/YEl7w6QimiRJphkkFTDcuZTanEU",
+      "updatedAt": "2026-01-21T07:14:02.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "运费模板",
+      "name": "删除运费模板",
+      "docToken": "ZCwEwSPIQibiyEktKGncHJXsnfe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/ZCwEwSPIQibiyEktKGncHJXsnfe",
+      "updatedAt": "2026-01-21T07:11:50.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "自提核销",
+      "name": "查询自提点城市列表",
+      "docToken": "SpagwiYRNinTOhkAHfDcoJrvne0",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SpagwiYRNinTOhkAHfDcoJrvne0",
+      "updatedAt": "2026-01-24T14:40:11.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "自提核销",
+      "name": "查询自提点列表",
+      "docToken": "SmucwlUJ4iQuBukEniMc4N0oneb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SmucwlUJ4iQuBukEniMc4N0oneb",
+      "updatedAt": "2026-01-24T14:46:37.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "自提核销",
+      "name": "查询自提点详情",
+      "docToken": "Yd1nw8KP3iiziZkXIyGchtjFnDd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Yd1nw8KP3iiziZkXIyGchtjFnDd",
+      "updatedAt": "2026-01-24T14:44:23.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "自提核销",
+      "name": "查询自提核销记录",
+      "docToken": "KeCPwCSiOi0zclk8VZ3cqf9Wnle",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/KeCPwCSiOi0zclk8VZ3cqf9Wnle",
+      "updatedAt": "2026-01-24T14:56:15.000Z",
+      "direction": "读写"
+    },
+    {
+      "domain": "自提核销",
+      "name": "查询自提码详情",
+      "docToken": "AxZuwuIhPidt3tk1yAjcG65UnXb",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/AxZuwuIhPidt3tk1yAjcG65UnXb",
+      "updatedAt": "2026-01-24T14:53:58.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "自提核销",
+      "name": "创建自提点",
+      "docToken": "SK2JwfLkYiSyGGkdZnLceoMKnah",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/SK2JwfLkYiSyGGkdZnLceoMKnah",
+      "updatedAt": "2026-01-24T14:42:16.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "自提核销",
+      "name": "更新自提点",
+      "docToken": "X6YuwHxr9iOUv4k2fUbcPdu1nQf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/X6YuwHxr9iOUv4k2fUbcPdu1nQf",
+      "updatedAt": "2026-01-24T14:48:43.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "自提核销",
+      "name": "核销自提订单【码】",
+      "docToken": "G5VNwNuMViSgF5ke8c8cRp9gnCe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/G5VNwNuMViSgF5ke8c8cRp9gnCe",
+      "updatedAt": "2026-01-25T10:38:30.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "自提核销",
+      "name": "删除自提点",
+      "docToken": "TQchwD7dKinNXzksCZcckusPnVe",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/TQchwD7dKinNXzksCZcckusPnVe",
+      "updatedAt": "2026-01-24T14:50:50.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "组织结构",
+      "name": "查询连锁总部的下级组织【即店铺】",
+      "docToken": "HnYWwkz6siuowJku01tcQetDndd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/HnYWwkz6siuowJku01tcQetDndd",
+      "updatedAt": "2026-03-27T03:00:36.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "组织结构",
+      "name": "查询零售子店铺的详情",
+      "docToken": "IGpzwCKLKibwPGk9xbDclZMant9",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/IGpzwCKLKibwPGk9xbDclZMant9",
+      "updatedAt": "2026-03-27T03:18:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "组织结构",
+      "name": "创建零售子店铺",
+      "docToken": "P7pVwMxdNirM2gkxnTtcbKH2nke",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/P7pVwMxdNirM2gkxnTtcbKH2nke",
+      "updatedAt": "2026-03-27T03:16:06.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "组织结构",
+      "name": "创建子店铺",
+      "docToken": "P8qtwDGR0iilK4koYUCcEnmlnpg",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/P8qtwDGR0iilK4koYUCcEnmlnpg",
+      "updatedAt": "2026-03-27T02:56:04.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "组织结构",
+      "name": "更新零售分店",
+      "docToken": "WFSuwvVDNikudXkoQh5cznlrnUf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/WFSuwvVDNikudXkoQh5cznlrnUf",
+      "updatedAt": "2026-03-27T03:20:37.000Z",
+      "direction": "写入/操作"
+    },
+    {
+      "domain": "组织结构",
+      "name": "批量查询某一时间点的所有祖先组织",
+      "docToken": "Cm1Dw6PUXiRB3Nkyyn1cVwq7nRf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Cm1Dw6PUXiRB3Nkyyn1cVwq7nRf",
+      "updatedAt": "2026-03-27T03:22:31.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "组织结构",
+      "name": "搜索授权的组织",
+      "docToken": "PaAlw9hE2iCpwGkKsUMccq7Nncd",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PaAlw9hE2iCpwGkKsUMccq7Nncd",
+      "updatedAt": "2026-03-27T03:24:44.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "组织结构",
+      "name": "搜索授权的组织，需指定起始组织id",
+      "docToken": "Pgqsw4ndZirfEfkKZfkcMuVqnke",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/Pgqsw4ndZirfEfkKZfkcMuVqnke",
+      "updatedAt": "2026-03-27T03:26:58.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "组织结构",
+      "name": "搜索组织",
+      "docToken": "FJCqwQXPRioxIjkTWIAcK0mrn2g",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/FJCqwQXPRioxIjkTWIAcK0mrn2g",
+      "updatedAt": "2026-03-27T03:29:09.000Z",
+      "direction": "读取"
+    },
+    {
+      "domain": "组织结构",
+      "name": "搜索组织，需指定起始组织id",
+      "docToken": "PB0QwmEjMieDc1kGgFkccjA7nDf",
+      "docUrl": "https://doc.youzanyun.com/v2/doc/cloud/token/PB0QwmEjMieDc1kGgFkccjA7nDf",
+      "updatedAt": "2026-03-27T03:31:23.000Z",
+      "direction": "读取"
+    }
+  ]
+}
