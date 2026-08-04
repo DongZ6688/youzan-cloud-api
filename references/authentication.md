@@ -18,6 +18,16 @@ The caller resolves values in this order:
 
 The standard store schema is available at `assets/credentials.example.json`. Keep the completed store outside the skill directory.
 
+## Find the authorized shop ID
+
+For self-use authorization, `grant_id` is the authorized shop ID (`kdt_id`). Find it at:
+
+**Youzan Cloud Console → Application Overview → Authorization Information → Add/View Shop Authorization**
+
+In the Chinese console, the path is: **有赞云控制台 → 应用概况 → 授权信息 → 新增/查看店铺授权**.
+
+Read and save the value only in the local environment or external mode-`0600` credential store. Never paste it together with `client_secret`, `access_token`, or `refresh_token` into chat, logs, issues, or commits.
+
 ## Refresh behavior
 
 The bundled caller uses the established Youzan token endpoint with `authorize_type=refresh_token` when `clientId`, `clientSecret`, and `refreshToken` are available. It refreshes proactively near expiry and once after a recognized invalid-token response.
