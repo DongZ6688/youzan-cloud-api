@@ -49,6 +49,8 @@ export YOUZAN_CLIENT_SECRET='...'
 
 For scheduled refresh, copy `assets/credentials.example.json` to an external path such as `~/.config/youzan-cloud-api/credentials.json`, fill it locally, set file mode `0600`, and optionally set `YOUZAN_TOKEN_STORE` to that path. Do not copy the completed file back into the skill.
 
+When a self-use authorization flow requires `grant_id`, use the authorized shop ID (`kdt_id`). Find it in **Youzan Cloud Console → Application Overview → Authorization Information → Add/View Shop Authorization**. Read it locally from the console; never ask the user to paste it or any accompanying secret into chat.
+
 Check configuration without revealing values:
 
 ```bash
